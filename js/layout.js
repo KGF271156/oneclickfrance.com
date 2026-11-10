@@ -90,7 +90,7 @@
       '<div><h5>' + esc(T('France Abroad')) + '</h5><ul><li><a href="' + ROOT + 'culture.html">' + esc(T('Culture')) + '</a></li><li><a href="' + ROOT + 'communities.html">' + esc(T('Communities')) + '</a></li><li><a href="' + ROOT + 'events.html">' + esc(T('Events')) + '</a></li></ul></div>' +
       '<div><h5>' + esc(T('The French way of life')) + '</h5><ul><li><a href="' + ROOT + 'gastronomy.html">' + esc(T('Gastronomy')) + '</a></li><li><a href="' + ROOT + 'savoir-vivre.html">' + esc(T('Savoir-vivre')) + '</a></li><li><a href="' + ROOT + 'sport.html">' + esc(T('Sport')) + '</a></li><li><a href="' + ROOT + 'visit-france.html">' + esc(T('Visit France')) + '</a></li></ul></div>' +
       '</div>' +
-      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick France · <a href="mailto:info@oneclickfrance.com">info@oneclickfrance.com</a></span>' +
+      '<div class="footer-bottom"><span>&copy; ' + new Date().getFullYear() + ' OneClick France · <a href="mailto:info@oneclickfrance.com">info@oneclickfrance.com</a> · <a href="https://one-click-world.com" target="_blank" rel="noopener">Part of OneClick World</a></span>' +
       '<span><a href="#">' + esc(T('Privacy')) + '</a> · <a href="#">' + esc(T('Terms')) + '</a></span></div>' +
       '</div></footer>';
   }
