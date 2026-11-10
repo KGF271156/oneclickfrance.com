@@ -1,0 +1,302 @@
+{
+  "slug": "grand-est",
+  "name": "Grand Est",
+  "adjective": "Alsatian and Lorrain",
+  "people": "Alsatians and Lorrains",
+  "eyebrow": "North-east France · Capital: Strasbourg",
+  "title": "Grand Est —",
+  "title_em": "Champagne, Alsace and Christmas markets.",
+  "tagline": "Champagne, the Alsace wine road, Strasbourg and the oldest Christmas market in France.",
+  "stats": [
+    [
+      "~5.6 M",
+      "residents"
+    ],
+    [
+      "10",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Grand Est brings together Alsace, Lorraine and Champagne-Ardenne, on the borders of Germany, Luxembourg and Belgium. Its history is shaped by both French and German influence.",
+    "Strasbourg is the seat of the European Parliament, Reims and Épernay are the capitals of Champagne, Nancy has one of Europe's finest squares, and Alsace has half-timbered villages and a famous wine road."
+  ],
+  "map": {
+    "viewBox": "362 55 233 195",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Strasbourg",
+        "lat": 48.5734,
+        "lon": 7.7521,
+        "note": "The capital and seat of the European Parliament.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Reims",
+        "lat": 49.2583,
+        "lon": 4.0317,
+        "note": "The Champagne capital and coronation city.",
+        "label": "left"
+      },
+      {
+        "name": "Metz",
+        "lat": 49.1193,
+        "lon": 6.1757,
+        "note": "A city of golden stone and a Pompidou centre.",
+        "label": "left"
+      },
+      {
+        "name": "Nancy",
+        "lat": 48.6921,
+        "lon": 6.1844,
+        "note": "Place Stanislas and Art Nouveau.",
+        "label": "left"
+      },
+      {
+        "name": "Colmar",
+        "lat": 48.0794,
+        "lon": 7.3585,
+        "note": "A half-timbered town on the wine road."
+      },
+      {
+        "name": "Épernay",
+        "lat": 49.0405,
+        "lon": 3.9603,
+        "note": "Avenue de Champagne and its cellars.",
+        "label": "left"
+      },
+      {
+        "name": "Mulhouse",
+        "lat": 47.7508,
+        "lon": 7.3359,
+        "note": "A city of museums."
+      },
+      {
+        "name": "Verdun",
+        "lat": 49.1598,
+        "lon": 5.3828,
+        "note": "A WWI battlefield and memorial.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Champagne",
+      "text": "The sparkling wine named for the region, made in the cellars of Reims and Épernay."
+    },
+    {
+      "title": "The Alsace Wine Road",
+      "text": "Vineyards and half-timbered villages such as Colmar and Riquewihr."
+    },
+    {
+      "title": "Strasbourg Christmas market",
+      "text": "A market held since 1570, among the oldest in Europe."
+    }
+  ],
+  "places": [
+    {
+      "name": "Strasbourg Cathedral",
+      "where": "Strasbourg",
+      "text": "A Gothic cathedral with a pink sandstone spire."
+    },
+    {
+      "name": "Place Stanislas",
+      "where": "Nancy",
+      "text": "An 18th-century square, a UNESCO World Heritage Site."
+    },
+    {
+      "name": "Reims Cathedral",
+      "where": "Reims",
+      "text": "The coronation cathedral of French kings."
+    }
+  ],
+  "food": [
+    "Choucroute and tarte flambée",
+    "Quiche lorraine",
+    "Munster cheese",
+    "Kougelhopf",
+    "Champagne"
+  ],
+  "festivals": [
+    {
+      "name": "Marché de Noël de Strasbourg",
+      "where": "Strasbourg",
+      "month": 12,
+      "when": "Late November to 24 December",
+      "text": "The Christkindelsmärik, held since 1570.",
+      "diaspora": true
+    },
+    {
+      "name": "Fête de la Mirabelle",
+      "where": "Metz",
+      "month": 8,
+      "when": "August",
+      "text": "A festival of the golden plum of Lorraine."
+    }
+  ],
+  "sport": {
+    "intro": "RC Strasbourg, FC Metz and AS Nancy-Lorraine are the main football clubs, and SIG Strasbourg is a leading basketball team.",
+    "clubs": [
+      {
+        "name": "RC Strasbourg",
+        "sport": "Football",
+        "ground": "Stade de la Meinau"
+      },
+      {
+        "name": "FC Metz",
+        "sport": "Football",
+        "ground": "Stade Saint-Symphorien"
+      },
+      {
+        "name": "AS Nancy-Lorraine",
+        "sport": "Football",
+        "ground": "Stade Marcel-Picot"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Alsace and Lorraine families settled in Texas, Louisiana, Canada and Argentina, and they brought their food and festivals with them."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Grand Est",
+    "adjective": "alsaciens et lorrains",
+    "people": "Alsaciens et Lorrains",
+    "adj_fpl": "alsaciennes et lorraines",
+    "eyebrow": "Nord-est de la France · Capitale : Strasbourg",
+    "title": "Grand Est :",
+    "title_em": "champagne, Alsace et marchés de Noël.",
+    "tagline": "Le champagne, la route des vins d'Alsace, Strasbourg et le plus ancien marché de Noël de France.",
+    "stats": [
+      [
+        "~5,6 M",
+        "habitants"
+      ],
+      [
+        "10",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "Le Grand Est réunit l'Alsace, la Lorraine et la Champagne-Ardenne, aux frontières de l'Allemagne, du Luxembourg et de la Belgique. Son histoire a été marquée par les influences française et allemande.",
+      "Strasbourg est le siège du Parlement européen, Reims et Épernay sont les capitales du champagne, Nancy possède l'une des plus belles places d'Europe, et l'Alsace a ses villages à colombages et sa célèbre route des vins."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Strasbourg",
+          "note": "La capitale et siège du Parlement européen."
+        },
+        {
+          "name": "Reims",
+          "note": "La capitale du champagne et la ville du sacre."
+        },
+        {
+          "name": "Metz",
+          "note": "Une ville de pierre dorée avec un centre Pompidou."
+        },
+        {
+          "name": "Nancy",
+          "note": "La place Stanislas et l'Art nouveau."
+        },
+        {
+          "name": "Colmar",
+          "note": "Une ville à colombages sur la route des vins."
+        },
+        {
+          "name": "Épernay",
+          "note": "L'avenue de Champagne et ses caves."
+        },
+        {
+          "name": "Mulhouse",
+          "note": "Une ville de musées."
+        },
+        {
+          "name": "Verdun",
+          "note": "Un champ de bataille et mémorial de 14-18."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Le champagne",
+        "text": "Le vin pétillant qui porte le nom de la région, élaboré dans les caves de Reims et d'Épernay."
+      },
+      {
+        "title": "La route des vins d'Alsace",
+        "text": "Des vignobles et des villages à colombages comme Colmar et Riquewihr."
+      },
+      {
+        "title": "Le marché de Noël de Strasbourg",
+        "text": "Un marché qui existe depuis 1570, parmi les plus anciens d'Europe."
+      }
+    ],
+    "places": [
+      {
+        "name": "Cathédrale de Strasbourg",
+        "where": "Strasbourg",
+        "text": "Une cathédrale gothique à la flèche de grès rose."
+      },
+      {
+        "name": "Place Stanislas",
+        "where": "Nancy",
+        "text": "Une place du XVIIIe siècle, inscrite à l'UNESCO."
+      },
+      {
+        "name": "Cathédrale de Reims",
+        "where": "Reims",
+        "text": "La cathédrale du sacre des rois de France."
+      }
+    ],
+    "food": [
+      "Choucroute et tarte flambée",
+      "Quiche lorraine",
+      "Munster",
+      "Kouglof",
+      "Champagne"
+    ],
+    "festivals": [
+      {
+        "name": "Marché de Noël de Strasbourg",
+        "where": "Strasbourg",
+        "when": "De fin novembre au 24 décembre",
+        "text": "Le Christkindelsmärik, qui existe depuis 1570."
+      },
+      {
+        "name": "Fête de la Mirabelle",
+        "where": "Metz",
+        "when": "Août",
+        "text": "Une fête de la prune dorée de Lorraine."
+      }
+    ],
+    "sport": {
+      "intro": "Le RC Strasbourg, le FC Metz et l'AS Nancy-Lorraine sont les principaux clubs de football, et la SIG Strasbourg est une équipe de basket de premier plan.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade de la Meinau"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Saint-Symphorien"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Marcel-Picot"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Des familles alsaciennes et lorraines se sont installées au Texas, en Louisiane, au Canada et en Argentine, apportant leur cuisine et leurs fêtes."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

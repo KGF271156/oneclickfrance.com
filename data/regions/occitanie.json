@@ -1,0 +1,298 @@
+{
+  "slug": "occitanie",
+  "name": "Occitanie",
+  "adjective": "Occitan",
+  "people": "Occitans",
+  "eyebrow": "South France · Capital: Toulouse",
+  "title": "Occitanie —",
+  "title_em": "the pink city, the Pyrenees and the Cathars.",
+  "tagline": "Toulouse, Carcassonne, Montpellier, Lourdes and the Canal du Midi.",
+  "stats": [
+    [
+      "~6.0 M",
+      "residents"
+    ],
+    [
+      "13",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Occitanie stretches from the Pyrenees to the Mediterranean and is named for the Occitan language of the south. It has a warm climate, a strong regional culture and a love of rugby and bullfighting.",
+    "Toulouse, the pink city, is the centre of the European aerospace industry, Carcassonne is a medieval fortress, the Canal du Midi is a UNESCO World Heritage Site, and Lourdes is among the most visited pilgrimage sites in the world."
+  ],
+  "map": {
+    "viewBox": "202 371 248 195",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Toulouse",
+        "lat": 43.6047,
+        "lon": 1.4442,
+        "note": "The capital, the pink city and home of Airbus.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Montpellier",
+        "lat": 43.6108,
+        "lon": 3.8767,
+        "note": "A big university city near the Mediterranean."
+      },
+      {
+        "name": "Carcassonne",
+        "lat": 43.213,
+        "lon": 2.3491,
+        "note": "The medieval walled city.",
+        "label": "left"
+      },
+      {
+        "name": "Nîmes",
+        "lat": 43.8367,
+        "lon": 4.3601,
+        "note": "A Roman city with a famous arena."
+      },
+      {
+        "name": "Perpignan",
+        "lat": 42.6887,
+        "lon": 2.8948,
+        "note": "A Catalan city near Spain."
+      },
+      {
+        "name": "Lourdes",
+        "lat": 43.0942,
+        "lon": -0.046,
+        "note": "The pilgrimage town.",
+        "label": "left"
+      },
+      {
+        "name": "Albi",
+        "lat": 43.9298,
+        "lon": 2.148,
+        "note": "The red-brick cathedral city of Toulouse-Lautrec."
+      },
+      {
+        "name": "Sète",
+        "lat": 43.4075,
+        "lon": 3.6975,
+        "note": "A fishing port and canal town."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Toulouse, the pink city",
+      "text": "Brick buildings that glow in the sun, and the home of Airbus."
+    },
+    {
+      "title": "Carcassonne",
+      "text": "A medieval walled city with 52 towers."
+    },
+    {
+      "title": "The Canal du Midi",
+      "text": "A 17th-century canal linking the Atlantic and the Mediterranean."
+    }
+  ],
+  "places": [
+    {
+      "name": "Cité de Carcassonne",
+      "where": "Carcassonne",
+      "text": "A fortified medieval city."
+    },
+    {
+      "name": "Pont du Gard",
+      "where": "Gard",
+      "text": "A Roman aqueduct bridge, a UNESCO site."
+    },
+    {
+      "name": "Sanctuary of Lourdes",
+      "where": "Lourdes",
+      "text": "A major Catholic pilgrimage site."
+    }
+  ],
+  "food": [
+    "Cassoulet",
+    "Roquefort cheese",
+    "Aligot",
+    "Saucisse de Toulouse",
+    "Wines of Languedoc"
+  ],
+  "festivals": [
+    {
+      "name": "Féria de Nîmes",
+      "where": "Nîmes",
+      "month": 5,
+      "when": "Pentecost weekend",
+      "text": "Bullfights, music and street parties in the Roman arena."
+    },
+    {
+      "name": "Jazz in Marciac",
+      "where": "Marciac",
+      "month": 8,
+      "when": "Late July to August",
+      "text": "A well-known jazz festival in a small Gascon town."
+    }
+  ],
+  "sport": {
+    "intro": "Toulouse is a rugby capital: Stade Toulousain have won more French titles than any other club. Montpellier also has strong rugby and handball sides.",
+    "clubs": [
+      {
+        "name": "Stade Toulousain",
+        "sport": "Rugby",
+        "ground": "Stade Ernest-Wallon"
+      },
+      {
+        "name": "Toulouse FC",
+        "sport": "Football",
+        "ground": "Stadium de Toulouse"
+      },
+      {
+        "name": "Montpellier Hérault Rugby",
+        "sport": "Rugby",
+        "ground": "GGL Stadium"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Occitans and Catalans of the south have settled around the world, and the Occitan language is kept alive by cultural associations."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Occitanie",
+    "adjective": "occitans",
+    "people": "Occitans",
+    "adj_fpl": "occitanes",
+    "eyebrow": "Sud de la France · Capitale : Toulouse",
+    "title": "Occitanie :",
+    "title_em": "la ville rose, les Pyrénées et les Cathares.",
+    "tagline": "Toulouse, Carcassonne, Montpellier, Lourdes et le canal du Midi.",
+    "stats": [
+      [
+        "~6,0 M",
+        "habitants"
+      ],
+      [
+        "13",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "L'Occitanie s'étend des Pyrénées à la Méditerranée et porte le nom de la langue d'oc du Midi. Elle a un climat chaud, une forte culture régionale et la passion du rugby et de la corrida.",
+      "Toulouse, la ville rose, est le centre de l'industrie aéronautique européenne, Carcassonne est une forteresse médiévale, le canal du Midi est inscrit à l'UNESCO et Lourdes est l'un des sites de pèlerinage les plus visités au monde."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Toulouse",
+          "note": "La capitale, la ville rose et la maison d'Airbus."
+        },
+        {
+          "name": "Montpellier",
+          "note": "Une grande ville universitaire près de la Méditerranée."
+        },
+        {
+          "name": "Carcassonne",
+          "note": "La cité médiévale fortifiée."
+        },
+        {
+          "name": "Nîmes",
+          "note": "Une ville romaine et ses arènes."
+        },
+        {
+          "name": "Perpignan",
+          "note": "Une ville catalane près de l'Espagne."
+        },
+        {
+          "name": "Lourdes",
+          "note": "La ville de pèlerinage."
+        },
+        {
+          "name": "Albi",
+          "note": "La ville de la cathédrale de brique et de Toulouse-Lautrec."
+        },
+        {
+          "name": "Sète",
+          "note": "Un port de pêche et ville de canaux."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Toulouse, la ville rose",
+        "text": "Des bâtiments de brique qui rosissent au soleil, et la maison d'Airbus."
+      },
+      {
+        "title": "Carcassonne",
+        "text": "Une cité médiévale fortifiée aux 52 tours."
+      },
+      {
+        "title": "Le canal du Midi",
+        "text": "Un canal du XVIIe siècle reliant l'Atlantique à la Méditerranée."
+      }
+    ],
+    "places": [
+      {
+        "name": "Cité de Carcassonne",
+        "where": "Carcassonne",
+        "text": "Une cité médiévale fortifiée."
+      },
+      {
+        "name": "Pont du Gard",
+        "where": "Gard",
+        "text": "Un aqueduc romain, site UNESCO."
+      },
+      {
+        "name": "Sanctuaire de Lourdes",
+        "where": "Lourdes",
+        "text": "Un grand lieu de pèlerinage catholique."
+      }
+    ],
+    "food": [
+      "Cassoulet",
+      "Roquefort",
+      "Aligot",
+      "Saucisse de Toulouse",
+      "Vins du Languedoc"
+    ],
+    "festivals": [
+      {
+        "name": "Féria de Nîmes",
+        "where": "Nîmes",
+        "when": "Week-end de la Pentecôte",
+        "text": "Corridas, musique et fêtes de rue dans l'amphithéâtre romain."
+      },
+      {
+        "name": "Jazz in Marciac",
+        "where": "Marciac",
+        "when": "De fin juillet à août",
+        "text": "Un festival de jazz réputé dans une petite ville gasconne."
+      }
+    ],
+    "sport": {
+      "intro": "Toulouse est une capitale du rugby : le Stade toulousain a remporté plus de titres de champion de France que tout autre club. Montpellier a aussi de fortes équipes de rugby et de handball.",
+      "clubs": [
+        {
+          "sport": "Rugby",
+          "ground": "Stade Ernest-Wallon"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stadium de Toulouse"
+        },
+        {
+          "sport": "Rugby",
+          "ground": "GGL Stadium"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Occitans et les Catalans du Sud se sont installés dans le monde entier, et des associations culturelles font vivre la langue d'oc."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

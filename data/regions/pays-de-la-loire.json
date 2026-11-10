@@ -1,0 +1,290 @@
+{
+  "slug": "pays-de-la-loire",
+  "name": "Pays de la Loire",
+  "adjective": "Ligerian",
+  "people": "Ligériens",
+  "eyebrow": "West France · Capital: Nantes",
+  "title": "Pays de la Loire —",
+  "title_em": "Nantes, Le Mans and the Atlantic coast.",
+  "tagline": "The Loire's lower valley, the Mechanical Elephants of Nantes, the 24 Hours of Le Mans and the Vendée coast.",
+  "stats": [
+    [
+      "~3.9 M",
+      "residents"
+    ],
+    [
+      "5",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Pays de la Loire covers the lower Loire Valley and the Atlantic coast of Vendée. Nantes, once capital of the Dukes of Brittany, is today one of France's most inventive cities.",
+    "Angers has a castle with the Apocalypse Tapestry, Le Mans hosts a famous endurance race, the Vendée Globe sailing race starts at Les Sables-d'Olonne, and Puy du Fou is one of France's favourite theme parks."
+  ],
+  "map": {
+    "viewBox": "110 158 167 160",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Nantes",
+        "lat": 47.2184,
+        "lon": -1.5536,
+        "note": "The capital, home of the Machines of the Isle.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Angers",
+        "lat": 47.4784,
+        "lon": -0.5632,
+        "note": "A castle city and wine capital of Anjou.",
+        "label": "left"
+      },
+      {
+        "name": "Le Mans",
+        "lat": 48.0061,
+        "lon": 0.1996,
+        "note": "Home of the 24 Hours race."
+      },
+      {
+        "name": "Saint-Nazaire",
+        "lat": 47.2733,
+        "lon": -2.2138,
+        "note": "A shipbuilding port.",
+        "label": "left"
+      },
+      {
+        "name": "La Roche-sur-Yon",
+        "lat": 46.6705,
+        "lon": -1.426,
+        "note": "The Vendée's capital.",
+        "label": "left"
+      },
+      {
+        "name": "Les Sables-d'Olonne",
+        "lat": 46.496,
+        "lon": -1.783,
+        "note": "A beach resort and Vendée Globe start.",
+        "label": "left"
+      },
+      {
+        "name": "Saumur",
+        "lat": 47.2596,
+        "lon": -0.077,
+        "note": "A château town and cavalry school."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Nantes and the Machines of the Isle",
+      "text": "A giant mechanical elephant and a carousel of sea creatures."
+    },
+    {
+      "title": "The 24 Hours of Le Mans",
+      "text": "The world's oldest active endurance race, run each June."
+    },
+    {
+      "title": "The Vendée coast",
+      "text": "Atlantic beaches and the start of the Vendée Globe."
+    }
+  ],
+  "places": [
+    {
+      "name": "Château of the Dukes of Brittany",
+      "where": "Nantes",
+      "text": "A castle and history museum in the city centre."
+    },
+    {
+      "name": "Château d'Angers",
+      "where": "Angers",
+      "text": "A fortress holding the Apocalypse Tapestry."
+    },
+    {
+      "name": "Puy du Fou",
+      "where": "Les Epesses",
+      "text": "A historical theme park famed for its spectacles."
+    }
+  ],
+  "food": [
+    "Beurre blanc",
+    "Rillettes du Mans",
+    "Muscadet",
+    "Brioche vendéenne",
+    "Cointreau"
+  ],
+  "festivals": [
+    {
+      "name": "24 Hours of Le Mans",
+      "where": "Le Mans",
+      "month": 6,
+      "when": "June",
+      "text": "A 24-hour sports car race on the Circuit de la Sarthe."
+    },
+    {
+      "name": "Vendée Globe start",
+      "where": "Les Sables-d'Olonne",
+      "month": 11,
+      "when": "Every four years in November",
+      "text": "A solo, non-stop round-the-world sailing race."
+    }
+  ],
+  "sport": {
+    "intro": "FC Nantes, the Canaris, have won the league title several times; sailing and motor-racing are a big part of regional life.",
+    "clubs": [
+      {
+        "name": "FC Nantes",
+        "sport": "Football",
+        "ground": "Stade de la Beaujoire"
+      },
+      {
+        "name": "Vendée Globe",
+        "sport": "Sailing",
+        "ground": "Les Sables-d'Olonne"
+      },
+      {
+        "name": "24 Hours of Le Mans",
+        "sport": "Motor racing",
+        "ground": "Le Mans"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Nantes was a major Atlantic port, and its people have long travelled to the Americas."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Pays de la Loire",
+    "adjective": "ligériens",
+    "people": "Ligériens",
+    "adj_fpl": "ligériennes",
+    "eyebrow": "Ouest de la France · Capitale : Nantes",
+    "title": "Pays de la Loire :",
+    "title_em": "Nantes, Le Mans et la côte atlantique.",
+    "tagline": "La basse vallée de la Loire, les Machines de l'île de Nantes, les 24 Heures du Mans et la côte vendéenne.",
+    "stats": [
+      [
+        "~3,9 M",
+        "habitants"
+      ],
+      [
+        "5",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "Les Pays de la Loire couvrent la basse vallée de la Loire et la côte atlantique de la Vendée. Nantes, ancienne capitale des ducs de Bretagne, est aujourd'hui l'une des villes les plus inventives de France.",
+      "Angers possède un château qui abrite la tenture de l'Apocalypse, Le Mans accueille une célèbre course d'endurance, le Vendée Globe part des Sables-d'Olonne, et le Puy du Fou est l'un des parcs à thème préférés des Français."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Nantes",
+          "note": "La capitale, ville des Machines de l'île."
+        },
+        {
+          "name": "Angers",
+          "note": "Une ville de château et capitale des vins d'Anjou."
+        },
+        {
+          "name": "Le Mans",
+          "note": "La ville des 24 Heures."
+        },
+        {
+          "name": "Saint-Nazaire",
+          "note": "Un port de construction navale."
+        },
+        {
+          "name": "La Roche-sur-Yon",
+          "note": "La capitale de la Vendée."
+        },
+        {
+          "name": "Les Sables-d'Olonne",
+          "note": "Une station balnéaire et le départ du Vendée Globe."
+        },
+        {
+          "name": "Saumur",
+          "note": "Une ville de château et son école de cavalerie."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Nantes et les Machines de l'île",
+        "text": "Un éléphant mécanique géant et un carrousel des mondes marins."
+      },
+      {
+        "title": "Les 24 Heures du Mans",
+        "text": "La plus ancienne course d'endurance encore disputée, chaque mois de juin."
+      },
+      {
+        "title": "La côte vendéenne",
+        "text": "Des plages atlantiques et le départ du Vendée Globe."
+      }
+    ],
+    "places": [
+      {
+        "name": "Château des ducs de Bretagne",
+        "where": "Nantes",
+        "text": "Un château et musée d'histoire au centre-ville."
+      },
+      {
+        "name": "Château d'Angers",
+        "where": "Angers",
+        "text": "Une forteresse qui abrite la tenture de l'Apocalypse."
+      },
+      {
+        "name": "Puy du Fou",
+        "where": "Les Epesses",
+        "text": "Un parc historique réputé pour ses spectacles."
+      }
+    ],
+    "food": [
+      "Beurre blanc",
+      "Rillettes du Mans",
+      "Muscadet",
+      "Brioche vendéenne",
+      "Cointreau"
+    ],
+    "festivals": [
+      {
+        "name": "24 Heures du Mans",
+        "where": "Le Mans",
+        "when": "Juin",
+        "text": "Une course de 24 heures pour voitures de sport sur le circuit de la Sarthe."
+      },
+      {
+        "name": "Départ du Vendée Globe",
+        "where": "Les Sables-d'Olonne",
+        "when": "Tous les quatre ans, en novembre",
+        "text": "Une course autour du monde en solitaire et sans escale."
+      }
+    ],
+    "sport": {
+      "intro": "Le FC Nantes, les Canaris, a remporté plusieurs fois le championnat ; la voile et la course automobile tiennent une grande place dans la vie régionale.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade de la Beaujoire"
+        },
+        {
+          "sport": "Voile",
+          "ground": "Les Sables-d'Olonne"
+        },
+        {
+          "sport": "Course automobile",
+          "ground": "Le Mans"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Nantes fut un grand port atlantique, et ses habitants voyagent depuis longtemps vers les Amériques."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

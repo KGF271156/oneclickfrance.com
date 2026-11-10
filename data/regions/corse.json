@@ -1,0 +1,269 @@
+{
+  "slug": "corse",
+  "name": "Corsica",
+  "adjective": "Corsican",
+  "people": "Corsicans",
+  "eyebrow": "Mediterranean island · Capital: Ajaccio",
+  "title": "Corsica —",
+  "title_em": "the island of beauty.",
+  "tagline": "Napoleon's birthplace, mountains rising from the sea and a language of its own.",
+  "stats": [
+    [
+      "~0.35 M",
+      "residents"
+    ],
+    [
+      "2",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Corsica is a mountainous island in the Mediterranean, closer to Italy than to mainland France, with its own language, polyphonic singing and strong sense of identity.",
+    "Ajaccio is the birthplace of Napoleon, Bonifacio sits on white cliffs at the south, and the GR20 is one of Europe's toughest long-distance walks. The island's cheeses, charcuterie and chestnut flour are all prized."
+  ],
+  "map": {
+    "viewBox": "590 505 55 114",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Ajaccio",
+        "lat": 41.9192,
+        "lon": 8.7386,
+        "note": "The capital and Napoleon's birthplace.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Bastia",
+        "lat": 42.6977,
+        "lon": 9.4509,
+        "note": "The main port in the north-east."
+      },
+      {
+        "name": "Bonifacio",
+        "lat": 41.3875,
+        "lon": 9.1593,
+        "note": "A citadel on the cliffs."
+      },
+      {
+        "name": "Calvi",
+        "lat": 42.5681,
+        "lon": 8.7575,
+        "note": "A citadel and beach town.",
+        "label": "left"
+      },
+      {
+        "name": "Corte",
+        "lat": 42.306,
+        "lon": 9.1497,
+        "note": "The historic capital of Corsica.",
+        "label": "left"
+      },
+      {
+        "name": "Porto-Vecchio",
+        "lat": 41.5911,
+        "lon": 9.2796,
+        "note": "A beach resort in the south."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Napoleon in Ajaccio",
+      "text": "The emperor was born here in 1769, and the town has his house and museums."
+    },
+    {
+      "title": "Bonifacio",
+      "text": "A citadel perched on white limestone cliffs."
+    },
+    {
+      "title": "Corsican polyphonic singing",
+      "text": "Traditional songs sung by men's voices in harmony."
+    }
+  ],
+  "places": [
+    {
+      "name": "Bonifacio",
+      "where": "South Corsica",
+      "text": "A medieval town on the edge of the cliffs."
+    },
+    {
+      "name": "Calanques de Piana",
+      "where": "Piana",
+      "text": "Red granite cliffs, a UNESCO World Heritage Site."
+    },
+    {
+      "name": "The GR20",
+      "where": "Across the island",
+      "text": "A 180 km mountain trail from north to south."
+    }
+  ],
+  "food": [
+    "Brocciu cheese",
+    "Figatellu sausage",
+    "Chestnut flour cakes",
+    "Clementines",
+    "Corsican charcuterie"
+  ],
+  "festivals": [
+    {
+      "name": "Santa di u Niolu",
+      "where": "Casamaccioli",
+      "month": 9,
+      "when": "8 September",
+      "text": "A traditional mountain pilgrimage with song and dance."
+    },
+    {
+      "name": "Calvi on the Rocks",
+      "where": "Calvi",
+      "month": 7,
+      "when": "Early July",
+      "text": "A music festival on the Balagne coast."
+    }
+  ],
+  "sport": {
+    "intro": "SC Bastia and AC Ajaccio are the main football clubs, and Corsican derbies are passionately followed.",
+    "clubs": [
+      {
+        "name": "SC Bastia",
+        "sport": "Football",
+        "ground": "Stade Armand-Cesari"
+      },
+      {
+        "name": "AC Ajaccio",
+        "sport": "Football",
+        "ground": "Stade François-Coty"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Many Corsicans have served in the army and administration overseas, and large Corsican communities live in Marseille, Paris and the Americas."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Corse",
+    "adjective": "corses",
+    "people": "Corses",
+    "adj_fpl": "corses",
+    "eyebrow": "Île de la Méditerranée · Capitale : Ajaccio",
+    "title": "Corse :",
+    "title_em": "l'île de beauté.",
+    "tagline": "La ville natale de Napoléon, des montagnes qui plongent dans la mer et une langue bien à elle.",
+    "stats": [
+      [
+        "~0,35 M",
+        "habitants"
+      ],
+      [
+        "2",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La Corse est une île montagneuse de la Méditerranée, plus proche de l'Italie que de la France continentale, avec sa propre langue, ses chants polyphoniques et un fort sentiment d'identité.",
+      "Ajaccio est la ville natale de Napoléon, Bonifacio se dresse sur des falaises blanches au sud, et le GR20 est l'un des sentiers de grande randonnée les plus difficiles d'Europe. Les fromages, la charcuterie et la farine de châtaigne de l'île sont très appréciés."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Ajaccio",
+          "note": "La capitale et la ville natale de Napoléon."
+        },
+        {
+          "name": "Bastia",
+          "note": "Le principal port du nord-est."
+        },
+        {
+          "name": "Bonifacio",
+          "note": "Une citadelle sur les falaises."
+        },
+        {
+          "name": "Calvi",
+          "note": "Une citadelle et station balnéaire."
+        },
+        {
+          "name": "Corte",
+          "note": "L'ancienne capitale de la Corse."
+        },
+        {
+          "name": "Porto-Vecchio",
+          "note": "Une station balnéaire du sud."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Napoléon à Ajaccio",
+        "text": "L'empereur est né ici en 1769, et la ville conserve sa maison et ses musées."
+      },
+      {
+        "title": "Bonifacio",
+        "text": "Une citadelle perchée sur des falaises de calcaire blanc."
+      },
+      {
+        "title": "Les chants polyphoniques corses",
+        "text": "Des chants traditionnels à plusieurs voix d'hommes."
+      }
+    ],
+    "places": [
+      {
+        "name": "Bonifacio",
+        "where": "Sud de la Corse",
+        "text": "Une ville médiévale au bord des falaises."
+      },
+      {
+        "name": "Calanques de Piana",
+        "where": "Piana",
+        "text": "Des falaises de granite rouge, inscrites à l'UNESCO."
+      },
+      {
+        "name": "Le GR20",
+        "where": "Toute l'île",
+        "text": "Un sentier de montagne de 180 km du nord au sud."
+      }
+    ],
+    "food": [
+      "Brocciu",
+      "Figatellu",
+      "Gâteaux à la farine de châtaigne",
+      "Clémentines",
+      "Charcuterie corse"
+    ],
+    "festivals": [
+      {
+        "name": "Santa di u Niolu",
+        "where": "Casamaccioli",
+        "when": "8 septembre",
+        "text": "Un pèlerinage de montagne traditionnel, avec chants et danses."
+      },
+      {
+        "name": "Calvi on the Rocks",
+        "where": "Calvi",
+        "when": "Début juillet",
+        "text": "Un festival de musique sur la côte de la Balagne."
+      }
+    ],
+    "sport": {
+      "intro": "Le SC Bastia et l'AC Ajaccio sont les principaux clubs de football, et les derbies corses sont suivis avec passion.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade Armand-Cesari"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade François-Coty"
+        }
+      ]
+    },
+    "community": {
+      "intro": "De nombreux Corses ont servi dans l'armée et l'administration outre-mer, et de grandes communautés corses vivent à Marseille, à Paris et dans les Amériques."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

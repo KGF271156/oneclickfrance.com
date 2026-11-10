@@ -1,0 +1,301 @@
+{
+  "slug": "bretagne",
+  "name": "Brittany",
+  "adjective": "Breton",
+  "people": "Bretons",
+  "eyebrow": "West France · Capital: Rennes",
+  "title": "Brittany —",
+  "title_em": "Celtic coast, crêpes and the sea.",
+  "tagline": "Standing stones, pink granite, crêperies and a proud Celtic culture.",
+  "stats": [
+    [
+      "~3.4 M",
+      "residents"
+    ],
+    [
+      "4",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Brittany is the great peninsula of western France, with a Celtic language, music and traditions. It has more than 2,700 kilometres of coastline, from granite cliffs to sheltered bays.",
+    "Its cuisine of crêpes, galettes and salted butter is famous, and its festivals, from the Festival Interceltique de Lorient to the pardons and fest-noz dances, keep Breton culture alive."
+  ],
+  "map": {
+    "viewBox": "-1 137 196 119",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Rennes",
+        "lat": 48.1173,
+        "lon": -1.6778,
+        "note": "The capital and a university city.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Brest",
+        "lat": 48.3904,
+        "lon": -4.4861,
+        "note": "A naval port on the Atlantic.",
+        "label": "left"
+      },
+      {
+        "name": "Quimper",
+        "lat": 47.996,
+        "lon": -4.1024,
+        "note": "A city of half-timbered houses and Breton culture.",
+        "label": "left"
+      },
+      {
+        "name": "Saint-Malo",
+        "lat": 48.6493,
+        "lon": -2.0257,
+        "note": "The walled corsair city."
+      },
+      {
+        "name": "Vannes",
+        "lat": 47.6582,
+        "lon": -2.7608,
+        "note": "A walled town on the Gulf of Morbihan."
+      },
+      {
+        "name": "Lorient",
+        "lat": 47.7482,
+        "lon": -3.3667,
+        "note": "Home of the Festival Interceltique.",
+        "label": "left"
+      },
+      {
+        "name": "Carnac",
+        "lat": 47.5836,
+        "lon": -3.0788,
+        "note": "The standing stones.",
+        "label": "left"
+      },
+      {
+        "name": "Cancale",
+        "lat": 48.677,
+        "lon": -1.8528,
+        "note": "The oyster capital."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Crêpes and galettes",
+      "text": "Sweet crêpes and buckwheat galettes, eaten with Breton cider."
+    },
+    {
+      "title": "The Carnac stones",
+      "text": "Thousands of prehistoric standing stones in neat rows."
+    },
+    {
+      "title": "The sea and sailing",
+      "text": "Saint-Malo, Brest and Lorient are great maritime towns and the start of the Route du Rhum."
+    }
+  ],
+  "places": [
+    {
+      "name": "Saint-Malo",
+      "where": "Saint-Malo",
+      "text": "A walled port city of the corsairs."
+    },
+    {
+      "name": "Carnac stones",
+      "where": "Carnac",
+      "text": "Rows of megaliths more than 5,000 years old."
+    },
+    {
+      "name": "Pink Granite Coast",
+      "where": "Perros-Guirec",
+      "text": "Rock formations glowing pink in the evening sun."
+    }
+  ],
+  "food": [
+    "Buckwheat galettes and crêpes",
+    "Kouign-amann",
+    "Far breton",
+    "Cancale oysters",
+    "Breton salted butter and cider"
+  ],
+  "festivals": [
+    {
+      "name": "Festival Interceltique de Lorient",
+      "where": "Lorient",
+      "month": 8,
+      "when": "August",
+      "text": "A gathering of Celtic nations with music, dance and parades.",
+      "diaspora": true
+    },
+    {
+      "name": "Fest-noz",
+      "where": "Across Brittany",
+      "month": 8,
+      "when": "Summer",
+      "text": "Night dances to Breton music, a living tradition."
+    }
+  ],
+  "sport": {
+    "intro": "Stade Rennais, Stade Brestois and FC Lorient are the leading football clubs, and Brittany leads in sailing, cycling and the Route du Rhum.",
+    "clubs": [
+      {
+        "name": "Stade Rennais",
+        "sport": "Football",
+        "ground": "Roazhon Park"
+      },
+      {
+        "name": "Stade Brestois",
+        "sport": "Football",
+        "ground": "Stade Francis-Le Blé"
+      },
+      {
+        "name": "FC Lorient",
+        "sport": "Football",
+        "ground": "Stade du Moustoir"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Bretons have a strong diaspora, from Paris and Quebec to Argentina, and Breton cultural associations keep the language and dances alive abroad."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Bretagne",
+    "adjective": "bretons",
+    "people": "Bretons",
+    "adj_fpl": "bretonnes",
+    "eyebrow": "Ouest de la France · Capitale : Rennes",
+    "title": "Bretagne :",
+    "title_em": "côte celtique, crêpes et océan.",
+    "tagline": "Menhirs, granite rose, crêperies et une fière culture celtique.",
+    "stats": [
+      [
+        "~3,4 M",
+        "habitants"
+      ],
+      [
+        "4",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La Bretagne est la grande péninsule de l'ouest de la France, avec sa langue, sa musique et ses traditions celtiques. Elle compte plus de 2 700 kilomètres de côtes, des falaises de granite aux baies abritées.",
+      "Sa cuisine de crêpes, de galettes et de beurre salé est célèbre, et ses fêtes, du Festival interceltique de Lorient aux pardons et aux fest-noz, font vivre la culture bretonne."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Rennes",
+          "note": "La capitale et ville universitaire."
+        },
+        {
+          "name": "Brest",
+          "note": "Un port militaire sur l'Atlantique."
+        },
+        {
+          "name": "Quimper",
+          "note": "Une ville de maisons à pans de bois et de culture bretonne."
+        },
+        {
+          "name": "Saint-Malo",
+          "note": "La cité corsaire fortifiée."
+        },
+        {
+          "name": "Vannes",
+          "note": "Une ville fortifiée sur le golfe du Morbihan."
+        },
+        {
+          "name": "Lorient",
+          "note": "La ville du Festival interceltique."
+        },
+        {
+          "name": "Carnac",
+          "note": "Les alignements de menhirs."
+        },
+        {
+          "name": "Cancale",
+          "note": "La capitale de l'huître."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Crêpes et galettes",
+        "text": "Des crêpes sucrées et des galettes de sarrasin, avec du cidre breton."
+      },
+      {
+        "title": "Les alignements de Carnac",
+        "text": "Des milliers de menhirs préhistoriques en rangs serrés."
+      },
+      {
+        "title": "La mer et la voile",
+        "text": "Saint-Malo, Brest et Lorient sont de grandes villes maritimes et le départ de la Route du Rhum."
+      }
+    ],
+    "places": [
+      {
+        "name": "Saint-Malo",
+        "where": "Saint-Malo",
+        "text": "Une cité corsaire entourée de remparts."
+      },
+      {
+        "name": "Alignements de Carnac",
+        "where": "Carnac",
+        "text": "Des rangées de mégalithes vieux de plus de 5 000 ans."
+      },
+      {
+        "name": "Côte de granit rose",
+        "where": "Perros-Guirec",
+        "text": "Des rochers qui rosissent au soleil du soir."
+      }
+    ],
+    "food": [
+      "Galettes de sarrasin et crêpes",
+      "Kouign-amann",
+      "Far breton",
+      "Huîtres de Cancale",
+      "Beurre salé et cidre breton"
+    ],
+    "festivals": [
+      {
+        "name": "Festival interceltique de Lorient",
+        "where": "Lorient",
+        "when": "Août",
+        "text": "Un rassemblement des nations celtes, avec musique, danse et défilés."
+      },
+      {
+        "name": "Fest-noz",
+        "where": "Dans toute la Bretagne",
+        "when": "Été",
+        "text": "Des bals de nuit sur musique bretonne, une tradition vivante."
+      }
+    ],
+    "sport": {
+      "intro": "Le Stade Rennais, le Stade Brestois et le FC Lorient sont les principaux clubs de football, et la Bretagne excelle en voile, en cyclisme et sur la Route du Rhum.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Roazhon Park"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Francis-Le Blé"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade du Moustoir"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Bretons ont une forte diaspora, de Paris au Québec et à l'Argentine, et les associations culturelles bretonnes font vivre la langue et les danses à l'étranger."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

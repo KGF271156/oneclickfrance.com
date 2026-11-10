@@ -1,0 +1,301 @@
+{
+  "slug": "hauts-de-france",
+  "name": "Hauts-de-France",
+  "adjective": "Northern",
+  "people": "Northerners",
+  "eyebrow": "Northern France · Capital: Lille",
+  "title": "Hauts-de-France —",
+  "title_em": "belfries, beer and the Battlefields.",
+  "tagline": "Lille, Amiens Cathedral, the Somme and the Côte d'Opale.",
+  "stats": [
+    [
+      "~6.0 M",
+      "residents"
+    ],
+    [
+      "5",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Hauts-de-France is France's northernmost region, bordering Belgium and facing the Channel. Its people are known for their warmth, and the old saying goes that the sun in the north is in the hearts of the people.",
+    "Lille is its lively capital, Amiens has the largest Gothic cathedral in France by volume, and the battlefields of the First World War, from the Somme to Vimy Ridge, are places of remembrance."
+  ],
+  "map": {
+    "viewBox": "280 2 140 156",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Lille",
+        "lat": 50.6292,
+        "lon": 3.0573,
+        "note": "The capital, in Flemish style.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Amiens",
+        "lat": 49.8941,
+        "lon": 2.2958,
+        "note": "A cathedral city on the Somme.",
+        "label": "left"
+      },
+      {
+        "name": "Dunkirk",
+        "lat": 51.0343,
+        "lon": 2.3768,
+        "note": "A port with a famous carnival and the 1940 evacuation."
+      },
+      {
+        "name": "Calais",
+        "lat": 50.9513,
+        "lon": 1.8587,
+        "note": "Ferry port to England.",
+        "label": "left"
+      },
+      {
+        "name": "Lens",
+        "lat": 50.4292,
+        "lon": 2.833,
+        "note": "Home of RC Lens and the Louvre-Lens.",
+        "label": "left"
+      },
+      {
+        "name": "Arras",
+        "lat": 50.291,
+        "lon": 2.7775,
+        "note": "A town of Flemish squares.",
+        "label": "left"
+      },
+      {
+        "name": "Le Touquet",
+        "lat": 50.523,
+        "lon": 1.59,
+        "note": "A seaside resort.",
+        "label": "left"
+      },
+      {
+        "name": "Roubaix",
+        "lat": 50.6942,
+        "lon": 3.1746,
+        "note": "A former textile town and the finish of Paris–Roubaix."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Lille and the Grand-Place",
+      "text": "A flamboyant Flemish-style city with a famous street market, the Braderie."
+    },
+    {
+      "title": "The First World War battlefields",
+      "text": "The Somme, Vimy Ridge and many memorials and cemeteries."
+    },
+    {
+      "title": "Belfries",
+      "text": "The belfries of the north are a UNESCO World Heritage Site."
+    }
+  ],
+  "places": [
+    {
+      "name": "Amiens Cathedral",
+      "where": "Amiens",
+      "text": "The largest Gothic cathedral in France by volume."
+    },
+    {
+      "name": "Canadian National Vimy Memorial",
+      "where": "Vimy",
+      "text": "A memorial on the ridge captured by Canadian troops in 1917."
+    },
+    {
+      "name": "Louvre-Lens",
+      "where": "Lens",
+      "text": "A branch of the Louvre in a former mining town."
+    }
+  ],
+  "food": [
+    "Moules-frites",
+    "Maroilles cheese",
+    "Gaufres (waffles)",
+    "Carbonnade flamande",
+    "Beer from the north"
+  ],
+  "festivals": [
+    {
+      "name": "Braderie de Lille",
+      "where": "Lille",
+      "month": 9,
+      "when": "First weekend of September",
+      "text": "Europe's largest flea market, with mussels and chips in the streets."
+    },
+    {
+      "name": "Carnaval de Dunkerque",
+      "where": "Dunkirk",
+      "month": 2,
+      "when": "February and March",
+      "text": "A boisterous carnival with parades and songs."
+    }
+  ],
+  "sport": {
+    "intro": "RC Lens and LOSC Lille are the big football names, and cycling's Paris–Roubaix, the 'Hell of the North', is run over cobbles each April.",
+    "clubs": [
+      {
+        "name": "RC Lens",
+        "sport": "Football",
+        "ground": "Stade Bollaert-Delelis"
+      },
+      {
+        "name": "LOSC Lille",
+        "sport": "Football",
+        "ground": "Stade Pierre-Mauroy"
+      },
+      {
+        "name": "Paris–Roubaix",
+        "sport": "Cycling",
+        "ground": "Roubaix velodrome"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Hauts-de-France has strong links to Belgium, Britain and Canada, and people from the north are warmly proud of their roots."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Hauts-de-France",
+    "adjective": "des Hauts-de-France",
+    "people": "Nordistes",
+    "adj_fpl": "nordistes",
+    "eyebrow": "Nord de la France · Capitale : Lille",
+    "title": "Hauts-de-France :",
+    "title_em": "beffrois, bière et champs de bataille.",
+    "tagline": "Lille, la cathédrale d'Amiens, la Somme et la Côte d'Opale.",
+    "stats": [
+      [
+        "~6,0 M",
+        "habitants"
+      ],
+      [
+        "5",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "Les Hauts-de-France forment la région la plus au nord de la France, à la frontière de la Belgique et face à la Manche. Ses habitants sont réputés pour leur chaleur : on dit que le soleil du Nord est dans le cœur des gens.",
+      "Lille en est la capitale animée, Amiens possède la plus grande cathédrale gothique de France par son volume, et les champs de bataille de la Première Guerre mondiale, de la Somme à la crête de Vimy, sont des lieux de mémoire."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Lille",
+          "note": "La capitale, de style flamand."
+        },
+        {
+          "name": "Amiens",
+          "note": "Une ville de cathédrale sur la Somme."
+        },
+        {
+          "name": "Dunkerque",
+          "note": "Un port, son carnaval et l'évacuation de 1940."
+        },
+        {
+          "name": "Calais",
+          "note": "Port des ferries vers l'Angleterre."
+        },
+        {
+          "name": "Lens",
+          "note": "La ville du RC Lens et du Louvre-Lens."
+        },
+        {
+          "name": "Arras",
+          "note": "Une ville de places flamandes."
+        },
+        {
+          "name": "Le Touquet",
+          "note": "Une station balnéaire."
+        },
+        {
+          "name": "Roubaix",
+          "note": "Une ancienne ville textile et l'arrivée de Paris–Roubaix."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Lille et la Grand-Place",
+        "text": "Une ville d'inspiration flamande, célèbre pour sa grande braderie."
+      },
+      {
+        "title": "Les champs de bataille de 14-18",
+        "text": "La Somme, la crête de Vimy et de nombreux monuments et cimetières."
+      },
+      {
+        "title": "Les beffrois",
+        "text": "Les beffrois du Nord sont inscrits au patrimoine mondial de l'UNESCO."
+      }
+    ],
+    "places": [
+      {
+        "name": "Cathédrale d'Amiens",
+        "where": "Amiens",
+        "text": "La plus grande cathédrale gothique de France par son volume."
+      },
+      {
+        "name": "Mémorial national canadien de Vimy",
+        "where": "Vimy",
+        "text": "Un mémorial sur la crête prise par les troupes canadiennes en 1917."
+      },
+      {
+        "name": "Louvre-Lens",
+        "where": "Lens",
+        "text": "Une antenne du Louvre dans une ancienne ville minière."
+      }
+    ],
+    "food": [
+      "Moules-frites",
+      "Maroilles",
+      "Gaufres",
+      "Carbonnade flamande",
+      "Bières du Nord"
+    ],
+    "festivals": [
+      {
+        "name": "Braderie de Lille",
+        "where": "Lille",
+        "when": "Premier week-end de septembre",
+        "text": "La plus grande brocante d'Europe, avec des moules-frites dans les rues."
+      },
+      {
+        "name": "Carnaval de Dunkerque",
+        "where": "Dunkerque",
+        "when": "Février et mars",
+        "text": "Un carnaval joyeux avec défilés et chansons."
+      }
+    ],
+    "sport": {
+      "intro": "Le RC Lens et le LOSC Lille sont les grands noms du football, et Paris–Roubaix, l'« Enfer du Nord », se court sur les pavés chaque avril.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade Bollaert-Delelis"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Pierre-Mauroy"
+        },
+        {
+          "sport": "Cyclisme",
+          "ground": "Vélodrome de Roubaix"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Hauts-de-France ont des liens forts avec la Belgique, la Grande-Bretagne et le Canada, et les gens du Nord sont fiers de leurs racines."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

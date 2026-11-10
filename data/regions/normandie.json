@@ -1,0 +1,293 @@
+{
+  "slug": "normandie",
+  "name": "Normandy",
+  "adjective": "Norman",
+  "people": "Normans",
+  "eyebrow": "North-west France · Capital: Rouen",
+  "title": "Normandy —",
+  "title_em": "D-Day beaches, apples and Mont-Saint-Michel.",
+  "tagline": "Camembert, cider, Étretat's white cliffs, the Bayeux Tapestry and the D-Day beaches.",
+  "stats": [
+    [
+      "~3.3 M",
+      "residents"
+    ],
+    [
+      "5",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Normandy runs from the Channel coast to the orchards of the interior. It is the land of the Vikings who became the Normans, and of William the Conqueror, who invaded England in 1066.",
+    "The D-Day landing beaches of 6 June 1944 lie on its coast, Monet painted at Giverny, and the abbey of Mont-Saint-Michel rises from the sea on its border with Brittany."
+  ],
+  "map": {
+    "viewBox": "136 63 180 136",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Rouen",
+        "lat": 49.4432,
+        "lon": 1.0993,
+        "note": "The capital, with its great Gothic cathedral.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Caen",
+        "lat": 49.1829,
+        "lon": -0.3707,
+        "note": "William the Conqueror's city.",
+        "label": "left"
+      },
+      {
+        "name": "Le Havre",
+        "lat": 49.4944,
+        "lon": 0.1079,
+        "note": "A port rebuilt by Auguste Perret, a UNESCO site.",
+        "label": "left"
+      },
+      {
+        "name": "Bayeux",
+        "lat": 49.2764,
+        "lon": -0.7024,
+        "note": "Home of the Bayeux Tapestry.",
+        "label": "left"
+      },
+      {
+        "name": "Étretat",
+        "lat": 49.7071,
+        "lon": 0.2056,
+        "note": "The white cliffs."
+      },
+      {
+        "name": "Deauville",
+        "lat": 49.359,
+        "lon": 0.0736,
+        "note": "A seaside resort and film festival town."
+      },
+      {
+        "name": "Mont-Saint-Michel",
+        "lat": 48.6361,
+        "lon": -1.5115,
+        "note": "The abbey on its rock.",
+        "label": "left"
+      },
+      {
+        "name": "Cherbourg",
+        "lat": 49.6337,
+        "lon": -1.6221,
+        "note": "A port at the tip of the Cotentin.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The D-Day beaches",
+      "text": "Omaha, Utah, Gold, Juno and Sword, and the American cemetery at Colleville-sur-Mer."
+    },
+    {
+      "title": "Mont-Saint-Michel",
+      "text": "An abbey on a tidal island, a UNESCO World Heritage Site."
+    },
+    {
+      "title": "Étretat and the Alabaster Coast",
+      "text": "White cliffs and natural arches painted by Monet."
+    }
+  ],
+  "places": [
+    {
+      "name": "Mont-Saint-Michel",
+      "where": "Manche",
+      "text": "An abbey rising above the tides."
+    },
+    {
+      "name": "Bayeux Tapestry",
+      "where": "Bayeux",
+      "text": "A 70-metre embroidery telling the story of the Norman conquest of England."
+    },
+    {
+      "name": "Monet's House and Gardens",
+      "where": "Giverny",
+      "text": "The water-lily garden that inspired Monet."
+    }
+  ],
+  "food": [
+    "Camembert de Normandie",
+    "Calvados and cider",
+    "Pont-l'Évêque and Livarot",
+    "Tarte normande",
+    "Sole normande"
+  ],
+  "festivals": [
+    {
+      "name": "D-Day anniversary",
+      "where": "Normandy coast",
+      "month": 6,
+      "when": "6 June",
+      "text": "Commemorations at the landing beaches and cemeteries.",
+      "diaspora": true
+    },
+    {
+      "name": "Deauville American Film Festival",
+      "where": "Deauville",
+      "month": 9,
+      "when": "September",
+      "text": "A festival of American cinema on the Norman coast."
+    }
+  ],
+  "sport": {
+    "intro": "Football clubs include SM Caen and Le Havre AC, which dates from 1872 and is often described as the oldest football club in France.",
+    "clubs": [
+      {
+        "name": "Le Havre AC",
+        "sport": "Football",
+        "ground": "Stade Océane"
+      },
+      {
+        "name": "SM Caen",
+        "sport": "Football",
+        "ground": "Stade Michel-d'Ornano"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Normans have long travelled to Canada: many French Canadians trace their roots to Normandy, and D-Day veterans' families return every June."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Normandie",
+    "adjective": "normandes",
+    "people": "Normands",
+    "adj_fpl": "normandes",
+    "eyebrow": "Nord-ouest de la France · Capitale : Rouen",
+    "title": "Normandie :",
+    "title_em": "plages du Débarquement, pommes et Mont-Saint-Michel.",
+    "tagline": "Camembert, cidre, falaises d'Étretat, tapisserie de Bayeux et plages du Débarquement.",
+    "stats": [
+      [
+        "~3,3 M",
+        "habitants"
+      ],
+      [
+        "5",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La Normandie s'étend de la côte de la Manche aux vergers de l'intérieur. C'est le pays des Vikings devenus Normands et de Guillaume le Conquérant, qui envahit l'Angleterre en 1066.",
+      "Les plages du Débarquement du 6 juin 1944 bordent sa côte, Monet a peint à Giverny et l'abbaye du Mont-Saint-Michel se dresse au milieu de la mer, à la frontière de la Bretagne."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Rouen",
+          "note": "La capitale, avec sa grande cathédrale gothique."
+        },
+        {
+          "name": "Caen",
+          "note": "La ville de Guillaume le Conquérant."
+        },
+        {
+          "name": "Le Havre",
+          "note": "Un port reconstruit par Auguste Perret, site UNESCO."
+        },
+        {
+          "name": "Bayeux",
+          "note": "La ville de la tapisserie de Bayeux."
+        },
+        {
+          "name": "Étretat",
+          "note": "Les falaises blanches."
+        },
+        {
+          "name": "Deauville",
+          "note": "Une station balnéaire et ville de festival."
+        },
+        {
+          "name": "Mont-Saint-Michel",
+          "note": "L'abbaye sur son rocher."
+        },
+        {
+          "name": "Cherbourg",
+          "note": "Un port à la pointe du Cotentin."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Les plages du Débarquement",
+        "text": "Omaha, Utah, Gold, Juno et Sword, et le cimetière américain de Colleville-sur-Mer."
+      },
+      {
+        "title": "Le Mont-Saint-Michel",
+        "text": "Une abbaye sur un îlot rocheux battu par les marées, inscrite à l'UNESCO."
+      },
+      {
+        "title": "Étretat et la Côte d'Albâtre",
+        "text": "Des falaises blanches et des arches naturelles peintes par Monet."
+      }
+    ],
+    "places": [
+      {
+        "name": "Mont-Saint-Michel",
+        "where": "Manche",
+        "text": "Une abbaye qui domine les marées."
+      },
+      {
+        "name": "Tapisserie de Bayeux",
+        "where": "Bayeux",
+        "text": "Une broderie de 70 mètres qui raconte la conquête normande de l'Angleterre."
+      },
+      {
+        "name": "Maison et jardins de Claude Monet",
+        "where": "Giverny",
+        "text": "Le jardin aux nymphéas qui a inspiré Monet."
+      }
+    ],
+    "food": [
+      "Camembert de Normandie",
+      "Calvados et cidre",
+      "Pont-l'Évêque et livarot",
+      "Tarte normande",
+      "Sole normande"
+    ],
+    "festivals": [
+      {
+        "name": "Anniversaire du Débarquement",
+        "where": "Côte normande",
+        "when": "6 juin",
+        "text": "Cérémonies sur les plages du Débarquement et dans les cimetières."
+      },
+      {
+        "name": "Festival du cinéma américain de Deauville",
+        "where": "Deauville",
+        "when": "Septembre",
+        "text": "Un festival de cinéma américain sur la côte normande."
+      }
+    ],
+    "sport": {
+      "intro": "Parmi les clubs de football figurent le SM Caen et le Havre AC, fondé en 1872 et souvent présenté comme le plus ancien club de football de France.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade Océane"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Michel-d'Ornano"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Normands ont longtemps voyagé vers le Canada : beaucoup de Canadiens français ont des racines normandes, et les familles de vétérans reviennent chaque juin."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

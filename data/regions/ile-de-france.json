@@ -1,0 +1,269 @@
+{
+  "slug": "ile-de-france",
+  "name": "Île-de-France",
+  "adjective": "Île-de-France",
+  "people": "Parisians",
+  "eyebrow": "Capital region · Paris",
+  "title": "Île-de-France —",
+  "title_em": "Paris and the heart of France.",
+  "tagline": "The Eiffel Tower, the Louvre, Versailles and the world capital of fashion.",
+  "stats": [
+    [
+      "~12.3 M",
+      "residents"
+    ],
+    [
+      "8",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Île-de-France is the region around Paris, the capital and the centre of French politics, finance and culture. It is home to around a fifth of the population of France.",
+    "Paris holds the Louvre, the world's most visited museum, and hosts the haute couture shows each January and July. Versailles, Fontainebleau and Disneyland Paris are all within the region."
+  ],
+  "map": {
+    "viewBox": "286 120 101 80",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522,
+        "note": "The capital, on the Seine.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Versailles",
+        "lat": 48.8049,
+        "lon": 2.1204,
+        "note": "The royal palace and gardens.",
+        "label": "left"
+      },
+      {
+        "name": "Saint-Denis",
+        "lat": 48.9362,
+        "lon": 2.3574,
+        "note": "The Stade de France and the royal basilica."
+      },
+      {
+        "name": "Fontainebleau",
+        "lat": 48.4047,
+        "lon": 2.7016,
+        "note": "A royal château and forest."
+      },
+      {
+        "name": "Meaux",
+        "lat": 48.9603,
+        "lon": 2.8788,
+        "note": "Home of Brie de Meaux."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Paris",
+      "text": "The Eiffel Tower, Notre-Dame, Montmartre, the Seine and the cafés of every arrondissement."
+    },
+    {
+      "title": "Versailles",
+      "text": "Louis XIV's palace and gardens, a UNESCO World Heritage Site."
+    },
+    {
+      "title": "Haute couture and fashion",
+      "text": "Paris is the home of haute couture, with shows each January and July."
+    }
+  ],
+  "places": [
+    {
+      "name": "The Louvre",
+      "where": "Paris",
+      "text": "The most visited museum in the world, home of the Mona Lisa."
+    },
+    {
+      "name": "Palace of Versailles",
+      "where": "Versailles",
+      "text": "The royal palace, Hall of Mirrors and gardens."
+    },
+    {
+      "name": "Montmartre and Sacré-Cœur",
+      "where": "Paris",
+      "text": "A hilltop village of artists above the city."
+    }
+  ],
+  "food": [
+    "Jambon-beurre baguette",
+    "Croissants and pain au chocolat",
+    "Macarons",
+    "Brie de Meaux",
+    "Steak-frites"
+  ],
+  "festivals": [
+    {
+      "name": "Fête de la Musique",
+      "where": "Everywhere",
+      "month": 6,
+      "when": "21 June",
+      "text": "A free music festival in streets and squares, born in France in 1982.",
+      "diaspora": true
+    },
+    {
+      "name": "Bastille Day",
+      "where": "Paris",
+      "month": 7,
+      "when": "14 July",
+      "text": "The national day, with a military parade on the Champs-Élysées and fireworks at the Eiffel Tower.",
+      "diaspora": true
+    }
+  ],
+  "sport": {
+    "intro": "Paris hosts Roland-Garros each spring, the Tour de France finishes on the Champs-Élysées, and the city held the 2024 Olympic Games.",
+    "clubs": [
+      {
+        "name": "Paris Saint-Germain",
+        "sport": "Football",
+        "ground": "Parc des Princes"
+      },
+      {
+        "name": "Stade de France",
+        "sport": "Football and rugby",
+        "ground": "Saint-Denis"
+      },
+      {
+        "name": "Roland-Garros",
+        "sport": "Tennis",
+        "ground": "Paris"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Parisians and French people from across the country settle in London, New York, Montreal and Sydney, where Alliance Française and French-language schools are often their first meeting point."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Île-de-France",
+    "adjective": "d'Île-de-France",
+    "people": "Franciliens",
+    "adj_fpl": "franciliennes",
+    "eyebrow": "Région capitale · Paris",
+    "title": "Île-de-France :",
+    "title_em": "Paris et le cœur de la France.",
+    "tagline": "La tour Eiffel, le Louvre, Versailles et la capitale mondiale de la mode.",
+    "stats": [
+      [
+        "~12,3 M",
+        "habitants"
+      ],
+      [
+        "8",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "L'Île-de-France est la région qui entoure Paris, capitale et centre de la vie politique, financière et culturelle. Elle compte environ un cinquième de la population de la France.",
+      "Paris abrite le Louvre, le musée le plus visité du monde, et accueille les défilés de haute couture en janvier et en juillet. Versailles, Fontainebleau et Disneyland Paris se trouvent aussi dans la région."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Paris",
+          "note": "La capitale, au bord de la Seine."
+        },
+        {
+          "name": "Versailles",
+          "note": "Le château royal et ses jardins."
+        },
+        {
+          "name": "Saint-Denis",
+          "note": "Le Stade de France et la basilique royale."
+        },
+        {
+          "name": "Fontainebleau",
+          "note": "Un château royal et sa forêt."
+        },
+        {
+          "name": "Meaux",
+          "note": "La patrie du brie de Meaux."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Paris",
+        "text": "La tour Eiffel, Notre-Dame, Montmartre, la Seine et les cafés de chaque arrondissement."
+      },
+      {
+        "title": "Versailles",
+        "text": "Le château et les jardins de Louis XIV, inscrits au patrimoine mondial de l'UNESCO."
+      },
+      {
+        "title": "Haute couture et mode",
+        "text": "Paris est la patrie de la haute couture, avec des défilés en janvier et en juillet."
+      }
+    ],
+    "places": [
+      {
+        "name": "Le Louvre",
+        "where": "Paris",
+        "text": "Le musée le plus visité du monde, où se trouve la Joconde."
+      },
+      {
+        "name": "Château de Versailles",
+        "where": "Versailles",
+        "text": "Le palais royal, la galerie des Glaces et les jardins."
+      },
+      {
+        "name": "Montmartre et le Sacré-Cœur",
+        "where": "Paris",
+        "text": "Un village d'artistes perché au-dessus de la ville."
+      }
+    ],
+    "food": [
+      "Jambon-beurre",
+      "Croissants et pains au chocolat",
+      "Macarons",
+      "Brie de Meaux",
+      "Steak-frites"
+    ],
+    "festivals": [
+      {
+        "name": "Fête de la Musique",
+        "where": "Partout",
+        "when": "21 juin",
+        "text": "Un festival gratuit de musique dans les rues et sur les places, né en France en 1982."
+      },
+      {
+        "name": "Fête nationale",
+        "where": "Paris",
+        "when": "14 juillet",
+        "text": "Le défilé militaire sur les Champs-Élysées et le feu d'artifice de la tour Eiffel."
+      }
+    ],
+    "sport": {
+      "intro": "Paris accueille Roland-Garros chaque printemps, le Tour de France s'achève sur les Champs-Élysées et la ville a organisé les Jeux olympiques de 2024.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Parc des Princes"
+        },
+        {
+          "sport": "Football et rugby",
+          "ground": "Saint-Denis"
+        },
+        {
+          "sport": "Tennis",
+          "ground": "Paris"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Parisiens et les Français de toutes les régions s'installent à Londres, New York, Montréal ou Sydney, où l'Alliance française et les écoles françaises sont souvent leur premier point de rencontre."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

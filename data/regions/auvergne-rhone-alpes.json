@@ -1,0 +1,312 @@
+{
+  "slug": "auvergne-rhone-alpes",
+  "name": "Auvergne-Rhône-Alpes",
+  "adjective": "Rhône-Alpes",
+  "people": "Alpine and Auvergnat people",
+  "eyebrow": "South-east France · Capital: Lyon",
+  "title": "Auvergne-Rhône-Alpes —",
+  "title_em": "Lyon, Mont Blanc and the Alps.",
+  "tagline": "The gastronomic capital of France, the Alps, Mont Blanc and Chamonix, Annecy and the volcanoes of Auvergne.",
+  "stats": [
+    [
+      "~8.1 M",
+      "residents"
+    ],
+    [
+      "12",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Auvergne-Rhône-Alpes is the second most populous region of France, with Lyon as its capital and a landscape from Mont Blanc, the highest peak in Western Europe, to the ancient volcanoes of Auvergne.",
+    "Lyon is often called the gastronomic capital of France, with its bouchons and traditions of Paul Bocuse. The Alps bring skiing at Chamonix, Courchevel and Val d'Isère, and the lakes of Annecy and Bourget bring summer visitors."
+  ],
+  "map": {
+    "viewBox": "304 262 246 193",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Lyon",
+        "lat": 45.764,
+        "lon": 4.8357,
+        "note": "The capital and gastronomic capital of France.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Grenoble",
+        "lat": 45.1885,
+        "lon": 5.7245,
+        "note": "A university city in the Alps."
+      },
+      {
+        "name": "Clermont-Ferrand",
+        "lat": 45.7772,
+        "lon": 3.087,
+        "note": "At the foot of the volcanoes.",
+        "label": "left"
+      },
+      {
+        "name": "Saint-Étienne",
+        "lat": 45.4397,
+        "lon": 4.3872,
+        "note": "A former mining and cycle-making city.",
+        "label": "left"
+      },
+      {
+        "name": "Annecy",
+        "lat": 45.8992,
+        "lon": 6.1294,
+        "note": "The lakeside town."
+      },
+      {
+        "name": "Chamonix",
+        "lat": 45.9237,
+        "lon": 6.8694,
+        "note": "Beneath Mont Blanc."
+      },
+      {
+        "name": "Chambéry",
+        "lat": 45.5646,
+        "lon": 5.9178,
+        "note": "Capital of Savoy.",
+        "label": "left"
+      },
+      {
+        "name": "Vichy",
+        "lat": 46.1278,
+        "lon": 3.426,
+        "note": "A spa town.",
+        "label": "left"
+      },
+      {
+        "name": "Valence",
+        "lat": 44.9334,
+        "lon": 4.8924,
+        "note": "On the Rhône.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Lyon",
+      "text": "The food capital of France, with the bouchons, the Fête des Lumières and the old Roman city."
+    },
+    {
+      "title": "Mont Blanc and Chamonix",
+      "text": "The highest peak in the Alps and a mountaineering town."
+    },
+    {
+      "title": "Annecy",
+      "text": "A lakeside town of canals, called the Venice of the Alps."
+    }
+  ],
+  "places": [
+    {
+      "name": "Mont Blanc",
+      "where": "Chamonix",
+      "text": "4,806 metres, the roof of Western Europe."
+    },
+    {
+      "name": "Old Lyon (Vieux Lyon)",
+      "where": "Lyon",
+      "text": "A Renaissance district and UNESCO site."
+    },
+    {
+      "name": "Lake Annecy",
+      "where": "Annecy",
+      "text": "A clear alpine lake with a medieval old town."
+    }
+  ],
+  "food": [
+    "Quenelles and andouillette",
+    "Fondue and raclette",
+    "Reblochon and tartiflette",
+    "Saint-Marcellin cheese",
+    "Beaujolais wine"
+  ],
+  "festivals": [
+    {
+      "name": "Fête des Lumières",
+      "where": "Lyon",
+      "month": 12,
+      "when": "Early December",
+      "text": "Candles in windows and light shows across the city, held since 1852.",
+      "diaspora": true
+    },
+    {
+      "name": "Tour de France in the Alps",
+      "where": "Alps",
+      "month": 7,
+      "when": "July",
+      "text": "Mountain stages through the great Alpine passes."
+    }
+  ],
+  "sport": {
+    "intro": "Olympique Lyonnais lead football here, ASM Clermont Auvergne are top rugby side, and skiing, climbing and cycling are everywhere.",
+    "clubs": [
+      {
+        "name": "Olympique Lyonnais",
+        "sport": "Football",
+        "ground": "Groupama Stadium"
+      },
+      {
+        "name": "ASM Clermont Auvergne",
+        "sport": "Rugby",
+        "ground": "Stade Marcel-Michelin"
+      },
+      {
+        "name": "AS Saint-Étienne",
+        "sport": "Football",
+        "ground": "Stade Geoffroy-Guichard"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Lyonnais, Savoyards and Auvergnats are all found overseas, and Auvergnats in Paris are famous for running cafés."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Auvergne-Rhône-Alpes",
+    "adjective": "rhônalpins et auvergnats",
+    "people": "Rhônalpins et Auvergnats",
+    "adj_fpl": "rhônalpines et auvergnates",
+    "eyebrow": "Sud-est de la France · Capitale : Lyon",
+    "title": "Auvergne-Rhône-Alpes :",
+    "title_em": "Lyon, le mont Blanc et les Alpes.",
+    "tagline": "La capitale gastronomique de la France, les Alpes, le mont Blanc et Chamonix, Annecy et les volcans d'Auvergne.",
+    "stats": [
+      [
+        "~8,1 M",
+        "habitants"
+      ],
+      [
+        "12",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "L'Auvergne-Rhône-Alpes est la deuxième région la plus peuplée de France, avec Lyon pour capitale et des paysages qui vont du mont Blanc, plus haut sommet d'Europe occidentale, aux volcans anciens d'Auvergne.",
+      "Lyon est souvent appelée la capitale gastronomique de la France, avec ses bouchons et la tradition de Paul Bocuse. Les Alpes offrent le ski à Chamonix, Courchevel et Val d'Isère, et les lacs d'Annecy et du Bourget attirent les visiteurs l'été."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Lyon",
+          "note": "La capitale et capitale gastronomique de la France."
+        },
+        {
+          "name": "Grenoble",
+          "note": "Une ville universitaire dans les Alpes."
+        },
+        {
+          "name": "Clermont-Ferrand",
+          "note": "Au pied des volcans."
+        },
+        {
+          "name": "Saint-Étienne",
+          "note": "Une ancienne ville minière et cycliste."
+        },
+        {
+          "name": "Annecy",
+          "note": "La ville du lac."
+        },
+        {
+          "name": "Chamonix",
+          "note": "Au pied du mont Blanc."
+        },
+        {
+          "name": "Chambéry",
+          "note": "Capitale de la Savoie."
+        },
+        {
+          "name": "Vichy",
+          "note": "Une ville thermale."
+        },
+        {
+          "name": "Valence",
+          "note": "Sur le Rhône."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Lyon",
+        "text": "La capitale de la gastronomie, avec ses bouchons, la Fête des Lumières et la ville romaine."
+      },
+      {
+        "title": "Le mont Blanc et Chamonix",
+        "text": "Le plus haut sommet des Alpes et une ville d'alpinistes."
+      },
+      {
+        "title": "Annecy",
+        "text": "Une ville au bord du lac, sillonnée de canaux, surnommée la Venise des Alpes."
+      }
+    ],
+    "places": [
+      {
+        "name": "Mont Blanc",
+        "where": "Chamonix",
+        "text": "4 806 mètres, le toit de l'Europe occidentale."
+      },
+      {
+        "name": "Vieux Lyon",
+        "where": "Lyon",
+        "text": "Un quartier Renaissance, site UNESCO."
+      },
+      {
+        "name": "Lac d'Annecy",
+        "where": "Annecy",
+        "text": "Un lac alpin limpide et sa vieille ville médiévale."
+      }
+    ],
+    "food": [
+      "Quenelles et andouillette",
+      "Fondue et raclette",
+      "Reblochon et tartiflette",
+      "Saint-marcellin",
+      "Beaujolais"
+    ],
+    "festivals": [
+      {
+        "name": "Fête des Lumières",
+        "where": "Lyon",
+        "when": "Début décembre",
+        "text": "Des bougies aux fenêtres et des spectacles de lumière dans toute la ville, depuis 1852."
+      },
+      {
+        "name": "Le Tour de France dans les Alpes",
+        "where": "Alpes",
+        "when": "Juillet",
+        "text": "Des étapes de montagne par les grands cols alpins."
+      }
+    ],
+    "sport": {
+      "intro": "L'Olympique lyonnais domine le football, l'ASM Clermont Auvergne est la meilleure équipe de rugby, et le ski, l'escalade et le cyclisme sont partout.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Groupama Stadium"
+        },
+        {
+          "sport": "Rugby",
+          "ground": "Stade Marcel-Michelin"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Geoffroy-Guichard"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les Lyonnais, les Savoyards et les Auvergnats se trouvent partout dans le monde, et les Auvergnats de Paris sont célèbres pour tenir des cafés."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

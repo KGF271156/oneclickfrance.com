@@ -1,0 +1,299 @@
+{
+  "slug": "provence-alpes-cote-d-azur",
+  "name": "Provence-Alpes-Côte d'Azur",
+  "adjective": "Provençal",
+  "people": "Provençals",
+  "eyebrow": "South-east France · Capital: Marseille",
+  "title": "Provence-Alpes-Côte d'Azur —",
+  "title_em": "the Riviera, lavender and the south of France.",
+  "tagline": "Marseille, Nice, Cannes, Avignon, lavender fields and the Mediterranean sun.",
+  "stats": [
+    [
+      "~5.1 M",
+      "residents"
+    ],
+    [
+      "6",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Provence-Alpes-Côte d'Azur, often called PACA, is the sunny south-east of France, from the Rhône delta and the Camargue to the French Riviera and the Alps. It is the image of the south of France for many visitors.",
+    "Marseille is France's oldest city and second largest, Nice and Cannes line the Riviera, Avignon has the Palace of the Popes, and the lavender fields of the Luberon and Valensole bloom each summer."
+  ],
+  "map": {
+    "viewBox": "401 371 167 151",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Marseille",
+        "lat": 43.2965,
+        "lon": 5.3698,
+        "note": "The capital and France's oldest city.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Nice",
+        "lat": 43.7102,
+        "lon": 7.262,
+        "note": "The queen of the Riviera."
+      },
+      {
+        "name": "Cannes",
+        "lat": 43.5528,
+        "lon": 7.0174,
+        "note": "The film festival city.",
+        "label": "left"
+      },
+      {
+        "name": "Avignon",
+        "lat": 43.9493,
+        "lon": 4.8055,
+        "note": "The city of the Popes.",
+        "label": "left"
+      },
+      {
+        "name": "Aix-en-Provence",
+        "lat": 43.5297,
+        "lon": 5.4474,
+        "note": "A city of fountains and Cézanne."
+      },
+      {
+        "name": "Arles",
+        "lat": 43.6766,
+        "lon": 4.6278,
+        "note": "Roman arena and Van Gogh.",
+        "label": "left"
+      },
+      {
+        "name": "Toulon",
+        "lat": 43.1242,
+        "lon": 5.928,
+        "note": "A naval port."
+      },
+      {
+        "name": "Saint-Tropez",
+        "lat": 43.2727,
+        "lon": 6.6406,
+        "note": "The celebrity resort."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The French Riviera",
+      "text": "Nice, Cannes, Antibes and Saint-Tropez on the Mediterranean."
+    },
+    {
+      "title": "Lavender and the Luberon",
+      "text": "Purple fields and hilltop villages in the Provençal summer."
+    },
+    {
+      "title": "Marseille and bouillabaisse",
+      "text": "The old port and the fish stew of the city."
+    }
+  ],
+  "places": [
+    {
+      "name": "Palais des Papes",
+      "where": "Avignon",
+      "text": "The largest Gothic palace in Europe."
+    },
+    {
+      "name": "Arles Roman arena",
+      "where": "Arles",
+      "text": "Roman arena and Van Gogh's Arles."
+    },
+    {
+      "name": "Gorges du Verdon",
+      "where": "Alpes-de-Haute-Provence",
+      "text": "A turquoise canyon, the grandest in Europe."
+    }
+  ],
+  "food": [
+    "Bouillabaisse",
+    "Ratatouille",
+    "Tapenade",
+    "Pastis",
+    "Rosé wine from Provence"
+  ],
+  "festivals": [
+    {
+      "name": "Festival de Cannes",
+      "where": "Cannes",
+      "month": 5,
+      "when": "May",
+      "text": "The world's most famous film festival."
+    },
+    {
+      "name": "Festival d'Avignon",
+      "where": "Avignon",
+      "month": 7,
+      "when": "July",
+      "text": "A major theatre festival in the Papal city."
+    }
+  ],
+  "sport": {
+    "intro": "Olympique de Marseille, with the Vélodrome and its passionate fans, lead football here; pétanque was born in La Ciotat.",
+    "clubs": [
+      {
+        "name": "Olympique de Marseille",
+        "sport": "Football",
+        "ground": "Stade Vélodrome"
+      },
+      {
+        "name": "OGC Nice",
+        "sport": "Football",
+        "ground": "Allianz Riviera"
+      },
+      {
+        "name": "AS Monaco (nearby)",
+        "sport": "Football",
+        "ground": "Stade Louis-II"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Provence has sent sons and daughters around the world, and its dishes and traditions travel with them."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Provence-Alpes-Côte d'Azur",
+    "adjective": "provençaux",
+    "people": "Provençaux",
+    "adj_fpl": "provençales",
+    "eyebrow": "Sud-est de la France · Capitale : Marseille",
+    "title": "Provence-Alpes-Côte d'Azur :",
+    "title_em": "la Riviera, la lavande et le Midi.",
+    "tagline": "Marseille, Nice, Cannes, Avignon, les champs de lavande et le soleil de la Méditerranée.",
+    "stats": [
+      [
+        "~5,1 M",
+        "habitants"
+      ],
+      [
+        "6",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La région Provence-Alpes-Côte d'Azur, souvent appelée PACA, est le Sud-Est ensoleillé de la France, du delta du Rhône et de la Camargue à la Côte d'Azur et aux Alpes. C'est pour beaucoup de visiteurs l'image du Midi.",
+      "Marseille est la plus ancienne ville de France et la deuxième plus grande, Nice et Cannes bordent la Riviera, Avignon possède le palais des Papes, et les champs de lavande du Luberon et de Valensole fleurissent chaque été."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Marseille",
+          "note": "La capitale et la plus ancienne ville de France."
+        },
+        {
+          "name": "Nice",
+          "note": "La reine de la Riviera."
+        },
+        {
+          "name": "Cannes",
+          "note": "La ville du festival de cinéma."
+        },
+        {
+          "name": "Avignon",
+          "note": "La cité des Papes."
+        },
+        {
+          "name": "Aix-en-Provence",
+          "note": "Une ville de fontaines et de Cézanne."
+        },
+        {
+          "name": "Arles",
+          "note": "Arènes romaines et Van Gogh."
+        },
+        {
+          "name": "Toulon",
+          "note": "Un port militaire."
+        },
+        {
+          "name": "Saint-Tropez",
+          "note": "La station des célébrités."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "La Côte d'Azur",
+        "text": "Nice, Cannes, Antibes et Saint-Tropez au bord de la Méditerranée."
+      },
+      {
+        "title": "La lavande et le Luberon",
+        "text": "Des champs violets et des villages perchés dans l'été provençal."
+      },
+      {
+        "title": "Marseille et la bouillabaisse",
+        "text": "Le Vieux-Port et le plat de poissons de la ville."
+      }
+    ],
+    "places": [
+      {
+        "name": "Palais des Papes",
+        "where": "Avignon",
+        "text": "Le plus grand palais gothique d'Europe."
+      },
+      {
+        "name": "Arènes et sites romains d'Arles",
+        "where": "Arles",
+        "text": "L'amphithéâtre romain et l'Arles de Van Gogh."
+      },
+      {
+        "name": "Gorges du Verdon",
+        "where": "Alpes-de-Haute-Provence",
+        "text": "Un canyon turquoise, le plus grand d'Europe."
+      }
+    ],
+    "food": [
+      "Bouillabaisse",
+      "Ratatouille",
+      "Tapenade",
+      "Pastis",
+      "Rosé de Provence"
+    ],
+    "festivals": [
+      {
+        "name": "Festival de Cannes",
+        "where": "Cannes",
+        "when": "Mai",
+        "text": "Le festival de cinéma le plus célèbre du monde."
+      },
+      {
+        "name": "Festival d'Avignon",
+        "where": "Avignon",
+        "when": "Juillet",
+        "text": "Un grand festival de théâtre dans la cité des Papes."
+      }
+    ],
+    "sport": {
+      "intro": "L'Olympique de Marseille, avec le Vélodrome et ses supporters passionnés, domine le football ; la pétanque est née à La Ciotat.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade Vélodrome"
+        },
+        {
+          "sport": "Football",
+          "ground": "Allianz Riviera"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Louis-II"
+        }
+      ]
+    },
+    "community": {
+      "intro": "La Provence a envoyé ses enfants dans le monde entier, et ses plats et ses traditions voyagent avec eux."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

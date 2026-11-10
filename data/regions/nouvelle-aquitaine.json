@@ -1,0 +1,308 @@
+{
+  "slug": "nouvelle-aquitaine",
+  "name": "Nouvelle-Aquitaine",
+  "adjective": "Aquitanian",
+  "people": "Aquitanians",
+  "eyebrow": "South-west France · Capital: Bordeaux",
+  "title": "Nouvelle-Aquitaine —",
+  "title_em": "Bordeaux wine, Atlantic beaches and cognac.",
+  "tagline": "Bordeaux, Cognac, the Dordogne, the Basque coast and the largest region in France.",
+  "stats": [
+    [
+      "~6.1 M",
+      "residents"
+    ],
+    [
+      "12",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Nouvelle-Aquitaine is the largest region of France, stretching from the Atlantic coast to the Dordogne and the Pyrenees. It includes the Basque Country, the Landes and the Limousin.",
+    "Bordeaux is the world capital of fine wine, Cognac makes France's famous brandy, the Dune du Pilat is the highest sand dune in Europe, and the Dordogne is full of castles and prehistoric caves such as Lascaux."
+  ],
+  "map": {
+    "viewBox": "136 236 221 305",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lon": -0.5792,
+        "note": "The capital and wine capital of the world.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Limoges",
+        "lat": 45.8336,
+        "lon": 1.2611,
+        "note": "Famous for porcelain."
+      },
+      {
+        "name": "Poitiers",
+        "lat": 46.5802,
+        "lon": 0.3404,
+        "note": "A university and Romanesque city."
+      },
+      {
+        "name": "La Rochelle",
+        "lat": 46.1603,
+        "lon": -1.1511,
+        "note": "An Atlantic port with a medieval harbour.",
+        "label": "left"
+      },
+      {
+        "name": "Cognac",
+        "lat": 45.6948,
+        "lon": -0.329,
+        "note": "Home of the brandy."
+      },
+      {
+        "name": "Biarritz",
+        "lat": 43.4832,
+        "lon": -1.5586,
+        "note": "A surfing and Basque coast resort.",
+        "label": "left"
+      },
+      {
+        "name": "Bayonne",
+        "lat": 43.4929,
+        "lon": -1.4748,
+        "note": "The Basque capital of ham and chocolate."
+      },
+      {
+        "name": "Pau",
+        "lat": 43.2951,
+        "lon": -0.3708,
+        "note": "A city with views of the Pyrenees."
+      },
+      {
+        "name": "Périgueux",
+        "lat": 45.1841,
+        "lon": 0.7211,
+        "note": "The heart of Périgord."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Bordeaux wine",
+      "text": "Médoc, Saint-Émilion, Pomerol and Sauternes: some of the most prized wines in the world."
+    },
+    {
+      "title": "Cognac",
+      "text": "The brandy of the Charente, distilled twice and aged in oak."
+    },
+    {
+      "title": "Lascaux and the Dordogne",
+      "text": "Prehistoric cave paintings, castles and the truffle and foie gras of Périgord."
+    }
+  ],
+  "places": [
+    {
+      "name": "Dune du Pilat",
+      "where": "Arcachon Bay",
+      "text": "The highest sand dune in Europe."
+    },
+    {
+      "name": "Saint-Émilion",
+      "where": "Gironde",
+      "text": "A medieval wine village, a UNESCO World Heritage Site."
+    },
+    {
+      "name": "Biarritz",
+      "where": "Pyrénées-Atlantiques",
+      "text": "A surfing resort on the Basque coast."
+    }
+  ],
+  "food": [
+    "Canelés bordelais",
+    "Foie gras and confit de canard",
+    "Arcachon oysters",
+    "Piment d'Espelette",
+    "Cognac and Armagnac"
+  ],
+  "festivals": [
+    {
+      "name": "Vinexpo Bordeaux",
+      "where": "Bordeaux",
+      "month": 2,
+      "when": "February",
+      "text": "The international wine trade fair."
+    },
+    {
+      "name": "Fêtes de Bayonne",
+      "where": "Bayonne",
+      "month": 7,
+      "when": "Late July or early August",
+      "text": "Five days of Basque festivities in red and white."
+    }
+  ],
+  "sport": {
+    "intro": "Rugby is a passion in the south-west: Stade Bordeaux Bègles, Biarritz and Pau are among the leading clubs, and pelota is a Basque tradition.",
+    "clubs": [
+      {
+        "name": "Girondins de Bordeaux",
+        "sport": "Football",
+        "ground": "Matmut Atlantique"
+      },
+      {
+        "name": "Union Bordeaux Bègles",
+        "sport": "Rugby",
+        "ground": "Stade Chaban-Delmas"
+      },
+      {
+        "name": "Biarritz Olympique",
+        "sport": "Rugby",
+        "ground": "Parc des Sports Aguiléra"
+      }
+    ]
+  },
+  "community": {
+    "intro": "People from the south-west have long settled in Argentina, Uruguay and the Americas, and the Basque diaspora is among the best organised in the world."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Nouvelle-Aquitaine",
+    "adjective": "aquitains",
+    "people": "Néo-Aquitains",
+    "adj_fpl": "aquitaines",
+    "eyebrow": "Sud-ouest de la France · Capitale : Bordeaux",
+    "title": "Nouvelle-Aquitaine :",
+    "title_em": "vins de Bordeaux, plages atlantiques et cognac.",
+    "tagline": "Bordeaux, Cognac, la Dordogne, la côte basque et la plus grande région de France.",
+    "stats": [
+      [
+        "~6,1 M",
+        "habitants"
+      ],
+      [
+        "12",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La Nouvelle-Aquitaine est la plus grande région de France, de la côte atlantique à la Dordogne et aux Pyrénées. Elle comprend le Pays basque, les Landes et le Limousin.",
+      "Bordeaux est la capitale mondiale des grands vins, Cognac produit la célèbre eau-de-vie, la dune du Pilat est la plus haute dune d'Europe, et la Dordogne regorge de châteaux et de grottes préhistoriques comme Lascaux."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Bordeaux",
+          "note": "La capitale et capitale mondiale du vin."
+        },
+        {
+          "name": "Limoges",
+          "note": "Célèbre pour sa porcelaine."
+        },
+        {
+          "name": "Poitiers",
+          "note": "Une ville universitaire et romane."
+        },
+        {
+          "name": "La Rochelle",
+          "note": "Un port atlantique au port médiéval."
+        },
+        {
+          "name": "Cognac",
+          "note": "La patrie de l'eau-de-vie."
+        },
+        {
+          "name": "Biarritz",
+          "note": "Une station de surf de la côte basque."
+        },
+        {
+          "name": "Bayonne",
+          "note": "La capitale basque du jambon et du chocolat."
+        },
+        {
+          "name": "Pau",
+          "note": "Une ville face aux Pyrénées."
+        },
+        {
+          "name": "Périgueux",
+          "note": "Le cœur du Périgord."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Les vins de Bordeaux",
+        "text": "Médoc, Saint-Émilion, Pomerol et Sauternes : parmi les vins les plus prisés au monde."
+      },
+      {
+        "title": "Le cognac",
+        "text": "L'eau-de-vie de la Charente, distillée deux fois et vieillie en fûts de chêne."
+      },
+      {
+        "title": "Lascaux et la Dordogne",
+        "text": "Des peintures préhistoriques, des châteaux, la truffe et le foie gras du Périgord."
+      }
+    ],
+    "places": [
+      {
+        "name": "Dune du Pilat",
+        "where": "Bassin d'Arcachon",
+        "text": "La plus haute dune de sable d'Europe."
+      },
+      {
+        "name": "Saint-Émilion",
+        "where": "Gironde",
+        "text": "Un village viticole médiéval, inscrit à l'UNESCO."
+      },
+      {
+        "name": "Biarritz",
+        "where": "Pyrénées-Atlantiques",
+        "text": "Une station de surf sur la côte basque."
+      }
+    ],
+    "food": [
+      "Canelés bordelais",
+      "Foie gras et confit de canard",
+      "Huîtres d'Arcachon",
+      "Piment d'Espelette",
+      "Cognac et armagnac"
+    ],
+    "festivals": [
+      {
+        "name": "Vinexpo Bordeaux",
+        "where": "Bordeaux",
+        "when": "Février",
+        "text": "Le salon international du vin."
+      },
+      {
+        "name": "Fêtes de Bayonne",
+        "where": "Bayonne",
+        "when": "Fin juillet ou début août",
+        "text": "Cinq jours de fête basque, en rouge et blanc."
+      }
+    ],
+    "sport": {
+      "intro": "Le rugby est une passion dans le sud-ouest : l'Union Bordeaux Bègles, Biarritz et Pau sont parmi les meilleurs clubs, et la pelote est une tradition basque.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Matmut Atlantique"
+        },
+        {
+          "sport": "Rugby",
+          "ground": "Stade Chaban-Delmas"
+        },
+        {
+          "sport": "Rugby",
+          "ground": "Parc des Sports Aguiléra"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les gens du Sud-Ouest se sont longtemps installés en Argentine, en Uruguay et dans les Amériques, et la diaspora basque est l'une des mieux organisées au monde."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

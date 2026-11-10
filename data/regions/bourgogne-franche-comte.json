@@ -1,0 +1,280 @@
+{
+  "slug": "bourgogne-franche-comte",
+  "name": "Burgundy-Franche-Comté",
+  "adjective": "Burgundian",
+  "people": "Burgundians",
+  "eyebrow": "East-central France · Capital: Dijon",
+  "title": "Burgundy-Franche-Comté —",
+  "title_em": "great wines, mustard and Comté.",
+  "tagline": "The Côte d'Or vineyards, Dijon mustard, Comté cheese and the Jura mountains.",
+  "stats": [
+    [
+      "~2.8 M",
+      "residents"
+    ],
+    [
+      "8",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Burgundy-Franche-Comté combines two historic regions: Burgundy, famed for its wines and food, and Franche-Comté, with the Jura mountains and fine cheeses. The Climats of the Burgundy vineyards are a UNESCO World Heritage Site.",
+    "Dijon is the capital, Beaune holds the Hospices de Beaune, and the Citadel of Besançon is one of the fortifications of Vauban."
+  ],
+  "map": {
+    "viewBox": "340 166 206 161",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Dijon",
+        "lat": 47.322,
+        "lon": 5.0415,
+        "note": "The capital, famous for mustard and gastronomy.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Beaune",
+        "lat": 47.026,
+        "lon": 4.84,
+        "note": "The wine capital of Burgundy.",
+        "label": "left"
+      },
+      {
+        "name": "Besançon",
+        "lat": 47.2378,
+        "lon": 6.0241,
+        "note": "A fortified city on the Doubs."
+      },
+      {
+        "name": "Auxerre",
+        "lat": 47.7982,
+        "lon": 3.5673,
+        "note": "A cathedral city on the Yonne, near Chablis.",
+        "label": "left"
+      },
+      {
+        "name": "Mâcon",
+        "lat": 46.3068,
+        "lon": 4.8286,
+        "note": "On the Saône, gateway to the Mâconnais wines.",
+        "label": "left"
+      },
+      {
+        "name": "Cluny",
+        "lat": 46.4337,
+        "lon": 4.659,
+        "note": "A great medieval abbey town.",
+        "label": "left"
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "Burgundy wines",
+      "text": "From Chablis to Gevrey-Chambertin, Meursault and the Côte de Beaune."
+    },
+    {
+      "title": "Dijon mustard and boeuf bourguignon",
+      "text": "The signature flavours of Burgundian cooking."
+    },
+    {
+      "title": "Comté cheese",
+      "text": "A hard cheese from the Jura, aged for months in mountain cellars."
+    }
+  ],
+  "places": [
+    {
+      "name": "Hospices de Beaune",
+      "where": "Beaune",
+      "text": "A medieval hospital with a colourful tiled roof, home to the famous wine auction."
+    },
+    {
+      "name": "Citadel of Besançon",
+      "where": "Besançon",
+      "text": "A fortress by Vauban, a UNESCO World Heritage Site."
+    },
+    {
+      "name": "Abbey of Cluny",
+      "where": "Cluny",
+      "text": "Once the greatest monastery in Christendom."
+    }
+  ],
+  "food": [
+    "Boeuf bourguignon",
+    "Escargots de Bourgogne",
+    "Époisses cheese",
+    "Comté cheese",
+    "Dijon mustard"
+  ],
+  "festivals": [
+    {
+      "name": "Hospices de Beaune wine auction",
+      "where": "Beaune",
+      "month": 11,
+      "when": "Third weekend of November",
+      "text": "A charity wine auction held since 1859 that sets the tone for the Burgundy market."
+    },
+    {
+      "name": "Paulée de Meursault",
+      "where": "Meursault",
+      "month": 11,
+      "when": "November",
+      "text": "A celebratory lunch for wine growers at the end of the harvest."
+    }
+  ],
+  "sport": {
+    "intro": "Football is led by AJ Auxerre, champions of France in 1996, and FC Sochaux-Montbéliard, the works team of Peugeot.",
+    "clubs": [
+      {
+        "name": "AJ Auxerre",
+        "sport": "Football",
+        "ground": "Stade de l'Abbé-Deschamps"
+      },
+      {
+        "name": "FC Sochaux-Montbéliard",
+        "sport": "Football",
+        "ground": "Stade Auguste-Bonal"
+      },
+      {
+        "name": "Dijon FCO",
+        "sport": "Football",
+        "ground": "Stade Gaston-Gérard"
+      }
+    ]
+  },
+  "community": {
+    "intro": "Burgundian families and wine makers have taken their trade to California, Australia and Canada."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Bourgogne-Franche-Comté",
+    "adjective": "bourguignons et francs-comtois",
+    "people": "Bourguignons et Francs-Comtois",
+    "adj_fpl": "bourguignonnes et franc-comtoises",
+    "eyebrow": "Centre-est de la France · Capitale : Dijon",
+    "title": "Bourgogne-Franche-Comté :",
+    "title_em": "grands vins, moutarde et comté.",
+    "tagline": "Les vignobles de la Côte-d'Or, la moutarde de Dijon, le comté et le massif du Jura.",
+    "stats": [
+      [
+        "~2,8 M",
+        "habitants"
+      ],
+      [
+        "8",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "La Bourgogne-Franche-Comté réunit deux régions historiques : la Bourgogne, réputée pour ses vins et sa cuisine, et la Franche-Comté, avec le Jura et ses fromages. Les Climats du vignoble de Bourgogne sont inscrits au patrimoine mondial de l'UNESCO.",
+      "Dijon est la capitale, Beaune abrite les Hospices de Beaune et la citadelle de Besançon est l'une des fortifications de Vauban."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Dijon",
+          "note": "La capitale, célèbre pour sa moutarde et sa gastronomie."
+        },
+        {
+          "name": "Beaune",
+          "note": "La capitale des vins de Bourgogne."
+        },
+        {
+          "name": "Besançon",
+          "note": "Une ville fortifiée sur le Doubs."
+        },
+        {
+          "name": "Auxerre",
+          "note": "Une ville de cathédrale sur l'Yonne, près de Chablis."
+        },
+        {
+          "name": "Mâcon",
+          "note": "Sur la Saône, porte des vins du Mâconnais."
+        },
+        {
+          "name": "Cluny",
+          "note": "Une grande ville abbatiale médiévale."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Les vins de Bourgogne",
+        "text": "De Chablis à Gevrey-Chambertin, Meursault et la Côte de Beaune."
+      },
+      {
+        "title": "La moutarde de Dijon et le bœuf bourguignon",
+        "text": "Les saveurs signatures de la cuisine bourguignonne."
+      },
+      {
+        "title": "Le comté",
+        "text": "Un fromage à pâte dure du Jura, affiné pendant des mois dans les caves de montagne."
+      }
+    ],
+    "places": [
+      {
+        "name": "Hospices de Beaune",
+        "where": "Beaune",
+        "text": "Un hôtel-Dieu médiéval au toit de tuiles colorées, siège de la célèbre vente de vins."
+      },
+      {
+        "name": "Citadelle de Besançon",
+        "where": "Besançon",
+        "text": "Une forteresse de Vauban, inscrite au patrimoine mondial de l'UNESCO."
+      },
+      {
+        "name": "Abbaye de Cluny",
+        "where": "Cluny",
+        "text": "Autrefois le plus grand monastère de la chrétienté."
+      }
+    ],
+    "food": [
+      "Bœuf bourguignon",
+      "Escargots de Bourgogne",
+      "Époisses",
+      "Comté",
+      "Moutarde de Dijon"
+    ],
+    "festivals": [
+      {
+        "name": "Vente des vins des Hospices de Beaune",
+        "where": "Beaune",
+        "when": "Troisième week-end de novembre",
+        "text": "Une vente de vins au profit des Hospices, organisée depuis 1859, qui donne le ton du marché bourguignon."
+      },
+      {
+        "name": "Paulée de Meursault",
+        "where": "Meursault",
+        "when": "Novembre",
+        "text": "Un déjeuner de fête des vignerons à la fin des vendanges."
+      }
+    ],
+    "sport": {
+      "intro": "Le football est animé par l'AJ Auxerre, championne de France en 1996, et par le FC Sochaux-Montbéliard, club de l'usine Peugeot.",
+      "clubs": [
+        {
+          "sport": "Football",
+          "ground": "Stade de l'Abbé-Deschamps"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Auguste-Bonal"
+        },
+        {
+          "sport": "Football",
+          "ground": "Stade Gaston-Gérard"
+        }
+      ]
+    },
+    "community": {
+      "intro": "Les familles et les vignerons bourguignons ont emporté leur métier en Californie, en Australie et au Canada."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}

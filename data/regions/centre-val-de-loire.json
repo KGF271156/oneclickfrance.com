@@ -1,0 +1,249 @@
+{
+  "slug": "centre-val-de-loire",
+  "name": "Centre-Val de Loire",
+  "adjective": "Centre-Val de Loire",
+  "people": "Ligériens",
+  "eyebrow": "Loire Valley · Capital: Orléans",
+  "title": "Centre-Val de Loire —",
+  "title_em": "châteaux and the garden of France.",
+  "tagline": "Chambord, Chenonceau, Chartres and the Loire's royal valley.",
+  "stats": [
+    [
+      "~2.6 M",
+      "residents"
+    ],
+    [
+      "6",
+      "departments"
+    ]
+  ],
+  "summary": [
+    "Centre-Val de Loire is the region of the middle Loire, where French kings built their châteaux and where the French language was said to be spoken at its purest. The Loire Valley is a UNESCO World Heritage Site.",
+    "Its châteaux include Chambord, Chenonceau, Amboise and Blois, and its cathedral at Chartres is a masterpiece of Gothic art. The wines of Sancerre, Vouvray and Chinon come from here."
+  ],
+  "map": {
+    "viewBox": "222 133 151 180",
+    "lon0": 0,
+    "x0": 228.9,
+    "pxPerLon": 42.891,
+    "lat0": 0,
+    "y0": 3177.48,
+    "pxPerLat": 62.0,
+    "towns": [
+      {
+        "name": "Orléans",
+        "lat": 47.9029,
+        "lon": 1.9093,
+        "note": "The regional capital, linked to Joan of Arc.",
+        "capital": true,
+        "label": "left"
+      },
+      {
+        "name": "Tours",
+        "lat": 47.3941,
+        "lon": 0.6848,
+        "note": "A university city in the heart of the Loire.",
+        "label": "left"
+      },
+      {
+        "name": "Blois",
+        "lat": 47.5861,
+        "lon": 1.3359,
+        "note": "A royal château above the river."
+      },
+      {
+        "name": "Chartres",
+        "lat": 48.4469,
+        "lon": 1.4891,
+        "note": "Home of the great Gothic cathedral.",
+        "label": "left"
+      },
+      {
+        "name": "Bourges",
+        "lat": 47.081,
+        "lon": 2.3987,
+        "note": "A cathedral city and home of a spring music festival."
+      },
+      {
+        "name": "Amboise",
+        "lat": 47.4136,
+        "lon": 0.9846,
+        "note": "The town where Leonardo da Vinci spent his last years."
+      }
+    ]
+  },
+  "famous_for": [
+    {
+      "title": "The Loire châteaux",
+      "text": "Chambord, Chenonceau, Amboise, Blois and dozens more along the river."
+    },
+    {
+      "title": "Chartres Cathedral",
+      "text": "A Gothic cathedral known for its stained glass and its blue."
+    },
+    {
+      "title": "Leonardo da Vinci at Amboise",
+      "text": "The artist spent his last years at Clos Lucé and is buried at Amboise."
+    }
+  ],
+  "places": [
+    {
+      "name": "Château de Chambord",
+      "where": "Chambord",
+      "text": "The grandest Loire château, with a famous double-helix staircase."
+    },
+    {
+      "name": "Château de Chenonceau",
+      "where": "Chenonceaux",
+      "text": "A château built across the river Cher."
+    },
+    {
+      "name": "Chartres Cathedral",
+      "where": "Chartres",
+      "text": "A UNESCO World Heritage Site."
+    }
+  ],
+  "food": [
+    "Tarte Tatin",
+    "Crottin de Chavignol",
+    "Sainte-Maure de Touraine",
+    "Rillettes de Tours",
+    "Sancerre wine"
+  ],
+  "festivals": [
+    {
+      "name": "Printemps de Bourges",
+      "where": "Bourges",
+      "month": 4,
+      "when": "April",
+      "text": "One of France's best-known music festivals."
+    },
+    {
+      "name": "Fêtes de Jeanne d'Arc",
+      "where": "Orléans",
+      "month": 4,
+      "when": "29 April to 8 May",
+      "text": "Orléans marks Joan of Arc's lifting of the siege in 1429."
+    }
+  ],
+  "sport": {
+    "intro": "Cycling is a favourite here, with the Paris–Tours race and the Loire à Vélo route along the river.",
+    "clubs": []
+  },
+  "community": {
+    "intro": "Families from the Loire Valley are found in Canada and across the French-speaking world, and many returnees buy châteaux-country homes."
+  },
+  "ancestry": "Searching for your family's roots? The French National Archives and the departmental archives hold civil registers, parish records and census returns, and many are searchable online.",
+  "fr": {
+    "name": "Centre-Val de Loire",
+    "adjective": "du Centre-Val de Loire",
+    "people": "Ligériens",
+    "adj_fpl": "ligériennes",
+    "eyebrow": "Val de Loire · Capitale : Orléans",
+    "title": "Centre-Val de Loire :",
+    "title_em": "châteaux et jardin de la France.",
+    "tagline": "Chambord, Chenonceau, Chartres et la vallée royale de la Loire.",
+    "stats": [
+      [
+        "~2,6 M",
+        "habitants"
+      ],
+      [
+        "6",
+        "départements"
+      ]
+    ],
+    "summary": [
+      "Le Centre-Val de Loire est la région de la Loire moyenne, où les rois de France ont bâti leurs châteaux et où l'on disait que l'on parlait le français le plus pur. Le Val de Loire est inscrit au patrimoine mondial de l'UNESCO.",
+      "On y trouve les châteaux de Chambord, Chenonceau, Amboise et Blois, ainsi que la cathédrale de Chartres, chef-d'œuvre de l'art gothique. Les vins de Sancerre, de Vouvray et de Chinon viennent d'ici."
+    ],
+    "map": {
+      "towns": [
+        {
+          "name": "Orléans",
+          "note": "La capitale régionale, liée à Jeanne d'Arc."
+        },
+        {
+          "name": "Tours",
+          "note": "Une ville universitaire au cœur de la Loire."
+        },
+        {
+          "name": "Blois",
+          "note": "Un château royal au-dessus du fleuve."
+        },
+        {
+          "name": "Chartres",
+          "note": "La ville de la grande cathédrale gothique."
+        },
+        {
+          "name": "Bourges",
+          "note": "Une ville de cathédrale et son festival de printemps."
+        },
+        {
+          "name": "Amboise",
+          "note": "La ville où Léonard de Vinci a passé ses dernières années."
+        }
+      ]
+    },
+    "famous_for": [
+      {
+        "title": "Les châteaux de la Loire",
+        "text": "Chambord, Chenonceau, Amboise, Blois et des dizaines d'autres le long du fleuve."
+      },
+      {
+        "title": "La cathédrale de Chartres",
+        "text": "Une cathédrale gothique célèbre pour ses vitraux et son bleu."
+      },
+      {
+        "title": "Léonard de Vinci à Amboise",
+        "text": "L'artiste a passé ses dernières années au Clos Lucé et repose à Amboise."
+      }
+    ],
+    "places": [
+      {
+        "name": "Château de Chambord",
+        "where": "Chambord",
+        "text": "Le plus grand château de la Loire, avec son célèbre escalier à double révolution."
+      },
+      {
+        "name": "Château de Chenonceau",
+        "where": "Chenonceaux",
+        "text": "Un château bâti sur le Cher."
+      },
+      {
+        "name": "Cathédrale de Chartres",
+        "where": "Chartres",
+        "text": "Patrimoine mondial de l'UNESCO."
+      }
+    ],
+    "food": [
+      "Tarte Tatin",
+      "Crottin de Chavignol",
+      "Sainte-Maure de Touraine",
+      "Rillettes de Tours",
+      "Sancerre"
+    ],
+    "festivals": [
+      {
+        "name": "Printemps de Bourges",
+        "where": "Bourges",
+        "when": "Avril",
+        "text": "L'un des festivals de musique les plus connus de France."
+      },
+      {
+        "name": "Fêtes de Jeanne d'Arc",
+        "where": "Orléans",
+        "when": "Du 29 avril au 8 mai",
+        "text": "Orléans fête la délivrance de la ville par Jeanne d'Arc en 1429."
+      }
+    ],
+    "sport": {
+      "intro": "Le cyclisme est roi ici, avec la course Paris–Tours et la Loire à Vélo le long du fleuve.",
+      "clubs": []
+    },
+    "community": {
+      "intro": "Les familles du Val de Loire sont présentes au Canada et dans tout le monde francophone, et beaucoup de ceux qui reviennent s'installent dans le pays des châteaux."
+    },
+    "ancestry": "Vous cherchez vos racines ? Les Archives nationales et les archives départementales conservent les registres d’état civil, les registres paroissiaux et les recensements, et beaucoup sont consultables en ligne."
+  }
+}
